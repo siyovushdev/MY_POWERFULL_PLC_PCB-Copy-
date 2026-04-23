@@ -203,7 +203,8 @@
         0.8,
         1.0,
         1.2,
-        1.5
+        1.5,
+        2.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -774,7 +775,7 @@
         "uuid": "69a480d6-fa06-4fdd-8ed7-9beeb2ac027a"
       }
     ],
-    "used_designators": "#PWR1-92,C1-9,U1-18,D1-17,CCOUT1-2,Q1-9,F1,CIN1-5,COUT1-2,J1-7,L1,R1-42,RFBB1,RFBT1",
+    "used_designators": "RFBT1,RFBB1_TRIM1,RFBB1,MOD1,L1,#PWR1-193,RFBT1_TRIM1,C1-59,U1-45,D1-51,Q1-18,F1,CIN1-5,COUT1-3,CCOUT1-2,H1-8,J1-14,R1-110",
     "variants": []
   },
   "sheets": [
@@ -783,68 +784,68 @@
       "MY_POWERFULL_PLC_PCB"
     ],
     [
-      "87a726d0-533c-4262-b8c5-2932617d8d3b",
-      "DI_Channel"
+      "dc612884-1e2d-4b63-adb6-4d3ed94f1bbf",
+      "DI_FAST_GROUP"
     ],
     [
-      "8897abc9-7dcf-4257-85b7-f81dc007bffc",
-      "DI_Channel1"
+      "766466a4-2cfd-482c-84a4-77458e0d34d5",
+      "DO_Module1"
     ],
     [
-      "4e64734b-6b27-4381-aaa4-41c02954dcf7",
-      "DI_Channel2"
+      "77c3811a-14c3-4612-aac2-7d393344fd54",
+      "DI_Fast_Module"
     ],
     [
-      "f44eac19-12f0-4c3a-b428-3f1aa0858d8d",
-      "DI_Channel3"
+      "426b96bb-e83c-44fd-8bfd-3378dc0a109b",
+      "DI_Fast_Module1"
     ],
     [
-      "d15ea3e3-dc4d-49f8-b2c9-729b1d92d4a9",
-      "DI_Channel4"
+      "f83aa710-27d1-4e20-9dbf-17de4cd07122",
+      "DI_Fast_Module2"
     ],
     [
-      "b5941354-4254-4fec-a54d-dda2a810a2a6",
-      "DI_Channel5"
+      "2ea0969e-c324-40b6-b641-91ef85428036",
+      "DI_Fast_Module3"
     ],
     [
-      "67241bc3-5d1e-47d3-b303-da8d630c2b1b",
-      "DI_Channel6"
+      "d022fea0-0dcb-4344-8ff7-1f17b356b97d",
+      "DI_Fast_Module4"
     ],
     [
-      "f986e4e4-45a5-40af-97bb-b83c721538b7",
-      "DI_Channel7"
+      "acb836e1-a99d-4e6c-bf98-2244f47d884c",
+      "DI_Fast_Module5"
     ],
     [
-      "d68a7d61-8b5e-4ea3-8c34-fe54aa52db25",
-      "DO_Channel"
+      "4c56d938-ba02-4bbf-9b72-e30519982a4e",
+      "DI_Module1"
     ],
     [
-      "14b2a83e-7037-4335-9f41-2823b524a792",
-      "DO_Channel1"
+      "b7d068b7-0749-46be-81fd-f8e77704e761",
+      "DI_Module2"
     ],
     [
-      "551f71ac-0306-4715-a8aa-c6d7a9d54944",
-      "DO_Channel2"
+      "9a3794b4-da84-4929-9c03-43d518bb93f2",
+      "DI_Module3"
     ],
     [
-      "5ad22b79-6c4a-405e-967c-42f6b21f1af6",
-      "DO_Channel3"
+      "c53a33c4-3f61-472b-9464-d600121a2419",
+      "DI_Module4"
     ],
     [
-      "70fb16a6-c266-4eaa-b65f-7c3f2f4fec8d",
-      "DO_Channel4"
+      "de0419ad-dc18-40d2-a05a-2bdeee3ae302",
+      "DI_Module5"
     ],
     [
-      "a3bd1cee-4cde-4317-9114-c06892fbaeff",
-      "DO_Channel5"
+      "2ee088ed-f4e8-4fea-bc5d-e6f1799fd248",
+      "DI_Module6"
     ],
     [
-      "fe85390b-1420-4007-b7ef-fd6178bf935e",
-      "DO_Channel6"
+      "6ef87b53-f753-4c4f-b7f3-a5de18c79639",
+      "DI_Module7"
     ],
     [
-      "b8486a16-b9c7-4cb4-92dd-8b37ef7c02b0",
-      "DO_Channel7"
+      "be42694a-7f28-4435-94b8-07227e1a7b52",
+      "DI_Module8"
     ],
     [
       "a42fd33d-b090-4b65-8e1f-262d12ff9550",
@@ -852,11 +853,91 @@
     ],
     [
       "07a9e096-29cf-491a-9eb0-699b02d84850",
-      "02_POWER_24V_5V"
+      "02_POWER_5V"
     ],
     [
       "0b17cd48-1203-4a6a-86a8-14ec70b25aae",
-      "03_POWER_5V_3V3"
+      "03_POWER_3V3"
+    ],
+    [
+      "9375b8fb-73a5-4303-95e1-89e55afe151d",
+      "DI_Fast_Module6"
+    ],
+    [
+      "4c62837d-9558-4e8d-baa1-5946709130b8",
+      "DI_Fast_Module7"
+    ],
+    [
+      "cd88a99e-7476-4c7f-9829-e9cb7754fea7",
+      "DO_GROUP"
+    ],
+    [
+      "56d03984-44a3-4c56-98d7-b20c00e0a18b",
+      "DO_Module2"
+    ],
+    [
+      "eae37c15-9932-48d6-9cd7-06fe0e2bdb1f",
+      "DO_Module3"
+    ],
+    [
+      "545fcf9b-eeef-4eeb-9d66-a702c656a5ab",
+      "DO_Module4"
+    ],
+    [
+      "a6daff05-ba85-4a20-b37d-4bb1001be398",
+      "DO_Module5"
+    ],
+    [
+      "b512afeb-e760-4bff-9b2c-befd9fe6697f",
+      "DI_SLOW_GROUP"
+    ],
+    [
+      "083e0903-10e0-4333-8a78-a405e0b2d736",
+      "DO_Module6"
+    ],
+    [
+      "c8f5f1b6-08d1-401d-8244-8cfd0e22a8e9",
+      "DO_Module7"
+    ],
+    [
+      "2aef95d2-2c30-40be-8c14-0215016b017e",
+      "DO_Module8"
+    ],
+    [
+      "ea39046e-ca02-46d1-9fd4-b85a58c0b80f",
+      "DO_FAST_PWM"
+    ],
+    [
+      "4e719e6a-f498-4860-85c2-d3c910fb7d70",
+      "DO_FAST"
+    ],
+    [
+      "bdb5a479-48da-432b-97a9-55765e4484ff",
+      "DO_FAST1"
+    ],
+    [
+      "9dcca28d-a41c-4e95-8119-28bf2da75604",
+      "DO_FAST2"
+    ],
+    [
+      "6ec847d1-af3b-47e2-b394-844cce0f53eb",
+      "DO_FAST3"
+    ],
+    [
+      "5918cb53-767b-4406-8a2b-be52ced64ae0",
+      "DO_FAST4"
+    ],
+    [
+      "976e15ae-69f2-46a4-92b9-157eb83b98b3",
+      "DO_FAST5"
+    ],
+    [
+      "94887116-e992-4614-87b1-1893944a34af",
+      "DO_FAST6"
+    ],
+    [
+      "938b05e1-ee13-4e84-85e5-d171a1a5f239",
+      "DO_FAST7"
     ]
   ],
   "text_variables": {},

@@ -1,0 +1,54 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "7dd0169b-58c1-4066-a51b-6ec7e920d51e")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 34.29 26.67)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4c44c683-f610-43c9-acfd-2aa0e8806701")
+		(property "Sheetname" "DO_FAST_PWM"
+			(at 34.29 25.9584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DO_FAST_PWM.kicad_sch"
+			(at 34.29 32.3346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/4b64cbea-cd32-4e28-94e2-266a42e6bc02"
+					(page "32")
+				)
+			)
+		)
+	)
+)

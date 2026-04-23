@@ -329,6 +329,172 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:D_Zener_Small"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "D"
+				(at 0 2.286 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "D_Zener_Small"
+				(at 0 -2.286 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Zener diode, small symbol"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "diode"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "D_Zener_Small_0_1"
+				(polyline
+					(pts
+						(xy -0.254 1.016) (xy -0.762 1.016) (xy -0.762 -1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 1.016) (xy -0.762 0) (xy 0.762 -1.016) (xy 0.762 1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0) (xy -0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_Zener_Small_1_1"
+				(pin passive line
+					(at -2.54 0 0)
+					(length 1.778)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 1.778)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:Fuse"
 			(pin_numbers
 				(hide yes)
@@ -1040,36 +1206,68 @@
 		)
 	)
 	(junction
-		(at 110.49 113.03)
+		(at 104.14 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0922b856-3908-46bc-8edb-ca3f452cde8a")
+		(uuid "5ce1f55c-e1ef-42f9-8258-36e8e8306887")
 	)
 	(junction
-		(at 125.73 118.11)
+		(at 125.73 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "312b1bc0-2905-4961-9364-794106446400")
+		(uuid "705e4c7b-0cd8-4368-89cf-37d20a40b0e8")
 	)
 	(junction
-		(at 139.7 118.11)
+		(at 143.51 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "69ec5175-6cbd-4378-9ac6-67b1cf5d2f18")
+		(uuid "98509536-8e8d-4aa9-b71a-57377101cc63")
+	)
+	(junction
+		(at 113.03 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d3abbba8-327c-4f41-bcb0-69bc9e99d580")
+	)
+	(junction
+		(at 113.03 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fa97ed56-0867-4b5f-bbe8-4dce71d08e94")
 	)
 	(wire
 		(pts
-			(xy 139.7 118.11) (xy 152.4 118.11)
+			(xy 113.03 123.19) (xy 125.73 123.19)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1d3c9df8-c6c9-42b5-9e22-591a7eb84ef7")
+		(uuid "0d242f83-6271-4fd9-9469-b9c27d7a88a8")
 	)
 	(wire
 		(pts
-			(xy 110.49 113.03) (xy 118.11 113.03)
+			(xy 125.73 100.33) (xy 125.73 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "193c8fb4-c3be-404d-a7ff-8926494f69a7")
+	)
+	(wire
+		(pts
+			(xy 104.14 115.57) (xy 104.14 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f319358-2fd5-4cef-9baf-3cb1da001c91")
+	)
+	(wire
+		(pts
+			(xy 104.14 113.03) (xy 113.03 113.03)
 		)
 		(stroke
 			(width 0)
@@ -1079,7 +1277,17 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 113.03) (xy 110.49 113.03)
+			(xy 113.03 115.57) (xy 113.03 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "356f684d-d6c3-46f9-b2a1-7de618992345")
+	)
+	(wire
+		(pts
+			(xy 93.98 113.03) (xy 104.14 113.03)
 		)
 		(stroke
 			(width 0)
@@ -1089,7 +1297,17 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 118.11) (xy 157.48 118.11)
+			(xy 143.51 123.19) (xy 143.51 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47f25c92-6584-4a50-aaba-3cb8809de3fc")
+	)
+	(wire
+		(pts
+			(xy 143.51 139.7) (xy 143.51 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1099,7 +1317,47 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 118.11) (xy 125.73 118.11)
+			(xy 93.98 113.03) (xy 93.98 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65167765-9017-43b3-a25e-d478290eda12")
+	)
+	(wire
+		(pts
+			(xy 113.03 113.03) (xy 118.11 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cfae912-32d0-43c1-b47b-6bb54bcf5276")
+	)
+	(wire
+		(pts
+			(xy 113.03 123.19) (xy 113.03 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "700e806a-9001-4efe-aa10-3056f17346c1")
+	)
+	(wire
+		(pts
+			(xy 93.98 128.27) (xy 93.98 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "701b61a9-76b5-4d66-a087-6fa8cd723cf6")
+	)
+	(wire
+		(pts
+			(xy 104.14 123.19) (xy 113.03 123.19)
 		)
 		(stroke
 			(width 0)
@@ -1109,37 +1367,27 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 104.14) (xy 139.7 104.14)
+			(xy 143.51 129.54) (xy 143.51 123.19)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7b4470d9-c325-4573-be12-9446e4c697be")
+		(uuid "a4753402-81f8-4b6c-9fba-b3f9914113fc")
 	)
 	(wire
 		(pts
-			(xy 146.05 102.87) (xy 146.05 104.14)
+			(xy 104.14 123.19) (xy 104.14 120.65)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "811b666e-d736-496f-b2e3-2f37a45702b6")
+		(uuid "d3bfb802-a5e6-4fb6-8418-292243d139b9")
 	)
 	(wire
 		(pts
-			(xy 139.7 104.14) (xy 139.7 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d13dadc3-c717-4a09-ac27-b6fb7c7532d4")
-	)
-	(wire
-		(pts
-			(xy 125.73 118.11) (xy 139.7 118.11)
+			(xy 125.73 123.19) (xy 143.51 123.19)
 		)
 		(stroke
 			(width 0)
@@ -1149,7 +1397,17 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 102.87) (xy 143.51 104.14)
+			(xy 125.73 123.19) (xy 125.73 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e84f0717-f2d8-4b97-b214-2170bb6af60f")
+	)
+	(wire
+		(pts
+			(xy 143.51 99.06) (xy 143.51 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1157,9 +1415,39 @@
 		)
 		(uuid "f8f59134-4fa9-463a-b8b7-d90c56b1346b")
 	)
+	(label "D"
+		(at 123.19 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "320a05cf-cd46-44af-8756-95c4e284653e")
+	)
+	(label "S"
+		(at 123.19 120.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3b7b2ecc-c2a2-4e72-9c43-16497f359270")
+	)
+	(label "G"
+		(at 116.84 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5ab2fb36-0a23-46f9-8749-51f0d237b1d9")
+	)
 	(hierarchical_label "24V_Protected"
 		(shape input)
-		(at 125.73 107.95 90)
+		(at 125.73 100.33 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1169,85 +1457,8 @@
 		(uuid "47c2a25b-c0ec-4173-a684-d09a4c82ff3f")
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 146.05 104.14 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "01e3fba3-dbcb-4284-bd63-aa59d274f541")
-		(property "Reference" "#PWR076"
-			(at 146.05 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "FIELD_GND"
-			(at 146.05 109.22 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 146.05 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 146.05 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 146.05 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "92cf3586-21f8-4770-9f93-6611ed0d492d")
-		)
-		(instances
-			(project "MY_POWERFULL_PLC_PCB"
-				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "#PWR076")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
-		(at 110.49 115.57 0)
+		(at 104.14 118.11 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1255,10 +1466,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1332cf2d-6c1d-474c-9731-43ca64a619ac")
-		(property "Reference" "R42"
-			(at 113.03 114.2999 0)
+		(property "Reference" "R54"
+			(at 106.68 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1269,7 +1479,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 113.03 116.8399 0)
+			(at 106.68 124.4599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1280,7 +1490,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 110.49 115.57 0)
+			(at 104.14 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1291,7 +1501,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 110.49 115.57 0)
+			(at 104.14 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1302,7 +1512,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 110.49 115.57 0)
+			(at 104.14 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1321,7 +1531,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "R42")
+					(reference "R54")
 					(unit 1)
 				)
 			)
@@ -1329,7 +1539,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 100.33 118.11 0)
+		(at 93.98 128.27 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1338,8 +1548,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1cba0264-6603-46e5-b460-f89b76687227")
-		(property "Reference" "#PWR075"
-			(at 100.33 124.46 0)
+		(property "Reference" "#PWR095"
+			(at 93.98 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1349,8 +1559,8 @@
 				)
 			)
 		)
-		(property "Value" "FIELD_GND"
-			(at 100.33 123.19 0)
+		(property "Value" "GND"
+			(at 93.98 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1360,7 +1570,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 100.33 118.11 0)
+			(at 93.98 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1371,7 +1581,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 118.11 0)
+			(at 93.98 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1382,7 +1592,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 100.33 118.11 0)
+			(at 93.98 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1398,7 +1608,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "#PWR075")
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -1406,7 +1616,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 100.33 115.57 0)
+		(at 93.98 118.11 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1416,8 +1626,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28cf2268-460c-4059-a29c-9adf12ff2d2a")
-		(property "Reference" "R41"
-			(at 102.87 114.2999 0)
+		(property "Reference" "R53"
+			(at 96.52 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1428,7 +1638,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 102.87 116.8399 0)
+			(at 96.52 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1439,7 +1649,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 100.33 115.57 0)
+			(at 93.98 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1450,7 +1660,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 115.57 0)
+			(at 93.98 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1461,7 +1671,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 100.33 115.57 0)
+			(at 93.98 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1480,7 +1690,84 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "R41")
+					(reference "R53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 140.97 99.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3e345c5b-54a5-4f28-b68d-344a262e7a23")
+		(property "Reference" "#PWR096"
+			(at 140.97 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 140.97 104.14 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 140.97 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 140.97 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d0262494-56ea-4536-9ac0-fe2d5aacd9c7")
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -1498,7 +1785,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44670d4b-1821-4e85-abbd-35695833c963")
-		(property "Reference" "Q9"
+		(property "Reference" "Q2"
 			(at 129.54 111.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1565,15 +1852,15 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "Q9")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:Fuse")
-		(at 139.7 114.3 0)
+		(lib_id "Device:D_Zener_Small")
+		(at 113.03 118.11 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1581,10 +1868,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6bfe2e14-46f8-4be4-9b7a-af3a997bae4a")
-		(property "Reference" "F1"
-			(at 142.24 113.0299 0)
+		(uuid "5f53a2bd-3eeb-4098-b9a7-fbed95cc4ae8")
+		(property "Reference" "D29"
+			(at 114.808 123.444 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1594,8 +1880,9 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Fuse"
-			(at 142.24 115.5699 0)
+		(property "Value" "D_Zener_Small"
+			(at 110.49 116.8401 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1605,8 +1892,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
-			(at 137.922 114.3 90)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 113.03 118.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1617,7 +1904,169 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 114.3 0)
+			(at 113.03 118.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Zener diode, small symbol"
+			(at 113.03 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "eb558e4f-1c6a-49b7-ae80-f0b572d7f24e")
+		)
+		(pin "1"
+			(uuid "f72ed07e-f8d9-4c45-8d1c-0391fb4adb69")
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
+					(reference "D29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 140.97 93.98 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6a8663e3-e6f8-4e3f-81ba-de17de8b489f")
+		(property "Reference" "J14"
+			(at 142.24 87.63 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DI_IN_Connector"
+			(at 142.24 90.17 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MC_1,5_2-G-3.5_1x02_P3.50mm_Horizontal"
+			(at 140.97 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 140.97 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3de1eff3-57be-4d2e-8c3f-aa86b6e0c40b")
+		)
+		(pin "2"
+			(uuid "9a13bb44-e3bd-4732-bde1-918f887a8c30")
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
+					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Fuse")
+		(at 143.51 114.3 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6bfe2e14-46f8-4be4-9b7a-af3a997bae4a")
+		(property "Reference" "F1"
+			(at 146.05 113.0299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fuse"
+			(at 146.05 115.5699 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
+			(at 141.732 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 143.51 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1628,7 +2077,7 @@
 			)
 		)
 		(property "Description" "Fuse"
-			(at 139.7 114.3 0)
+			(at 143.51 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1654,90 +2103,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 143.51 97.79 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bcfdb56e-4a3b-481d-9b24-54ac87162ad1")
-		(property "Reference" "J7"
-			(at 148.59 96.5199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Conn_01x02"
-			(at 148.59 99.0599 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 143.51 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 143.51 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 143.51 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "74992867-2ff0-4da0-a1bf-440c4bd89fcb")
-		)
-		(pin "2"
-			(uuid "08035e70-03cf-41b3-a5c2-59d2df9bfb6b")
-		)
-		(instances
-			(project "MY_POWERFULL_PLC_PCB"
-				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "J7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 162.56 118.11 0)
+		(at 143.51 139.7 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1746,8 +2113,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c0d7c097-bd29-4d50-af79-883ab3e27d61")
-		(property "Reference" "#PWR077"
-			(at 162.56 124.46 0)
+		(property "Reference" "#PWR097"
+			(at 143.51 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1757,8 +2124,8 @@
 				)
 			)
 		)
-		(property "Value" "FIELD_GND"
-			(at 162.56 123.19 0)
+		(property "Value" "GND"
+			(at 143.51 144.78 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1768,7 +2135,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 118.11 0)
+			(at 143.51 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1779,7 +2146,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 118.11 0)
+			(at 143.51 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1790,7 +2157,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 162.56 118.11 0)
+			(at 143.51 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1806,7 +2173,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "#PWR077")
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)
@@ -1814,7 +2181,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_TVS_Small")
-		(at 154.94 118.11 0)
+		(at 143.51 132.08 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1822,10 +2189,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "dc010787-c531-4229-a977-1a1f9277f44e")
-		(property "Reference" "D17"
-			(at 154.94 111.76 0)
+		(property "Reference" "D30"
+			(at 146.558 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1834,8 +2200,9 @@
 				)
 			)
 		)
-		(property "Value" "SMBJ33A"
-			(at 154.94 114.3 0)
+		(property "Value" ""
+			(at 147.32 132.08 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1845,7 +2212,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMB"
-			(at 154.94 118.11 0)
+			(at 143.51 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1856,7 +2223,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 118.11 0)
+			(at 143.51 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1867,7 +2234,7 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
-			(at 154.94 118.11 0)
+			(at 143.51 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1886,7 +2253,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "D17")
+					(reference "D30")
 					(unit 1)
 				)
 			)

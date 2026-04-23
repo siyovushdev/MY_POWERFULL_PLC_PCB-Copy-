@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "my_footprints") (type "KiCad") (uri "${KIPRJMOD}/libraries/footprints/my_footprints.pretty") (options "") (descr ""))
+	(lib (name "Castellated_pads") (type "KiCad") (uri "${KIPRJMOD}/Castellated_pads.pretty") (options "") (descr ""))
+	(lib (name "Castellated_pads") (type "KiCad") (uri "${KIPRJMOD}/MY_POWERFULL_PLC_PCB-backups/Castellated_pads.pretty") (options "") (descr ""))
+)

@@ -1,0 +1,952 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "1fb0e41c-6008-4863-bf71-8b57a32537f6")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 30.48 17.78) (xy 30.48 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10dd53b6-aea1-4667-bd83-d12b0e4d9630")
+	)
+	(wire
+		(pts
+			(xy 134.62 20.32) (xy 134.62 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "178b42ee-1815-4622-b8b1-8ca30fe32870")
+	)
+	(wire
+		(pts
+			(xy 68.58 17.78) (xy 68.58 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d5801f7-904c-4b0e-9996-843b517b7d14")
+	)
+	(wire
+		(pts
+			(xy 149.86 17.78) (xy 149.86 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a3b77e7-c9fd-429a-a53c-3cb52ff57cca")
+	)
+	(wire
+		(pts
+			(xy 74.93 20.32) (xy 74.93 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5273efcd-8a3d-4867-b698-bee89f890767")
+	)
+	(wire
+		(pts
+			(xy 152.4 20.32) (xy 152.4 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fedf388-fb1b-4ee2-a149-38c0c85d9322")
+	)
+	(wire
+		(pts
+			(xy 115.57 20.32) (xy 115.57 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a8d7842-11b7-447a-99cd-6b7ea9b6d8d2")
+	)
+	(wire
+		(pts
+			(xy 15.24 20.32) (xy 15.24 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7db33065-817e-4032-8002-d7146ff1a819")
+	)
+	(wire
+		(pts
+			(xy 95.25 24.13) (xy 96.52 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c43b2a5-768f-4393-a4e0-67cd8099169b")
+	)
+	(wire
+		(pts
+			(xy 130.81 17.78) (xy 130.81 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9083727d-2366-4641-ab60-88dc524ac4cc")
+	)
+	(wire
+		(pts
+			(xy 134.62 24.13) (xy 135.89 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d0e0c93-c254-4a98-9716-9aac255f851a")
+	)
+	(wire
+		(pts
+			(xy 34.29 24.13) (xy 35.56 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e8ba7d2-20e9-46b7-bcee-904ac56083c6")
+	)
+	(wire
+		(pts
+			(xy 53.34 24.13) (xy 54.61 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ec6b972-6e40-4c13-ae83-17ca1d1f8849")
+	)
+	(wire
+		(pts
+			(xy 90.17 17.78) (xy 90.17 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3bc2f91-3ff7-4a74-8094-3cf6e0517469")
+	)
+	(wire
+		(pts
+			(xy 152.4 24.13) (xy 153.67 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aecf64bc-93ee-4b4d-bda0-eab5b88ae060")
+	)
+	(wire
+		(pts
+			(xy 110.49 17.78) (xy 110.49 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0500ece-398e-446d-89e2-12adb235eea8")
+	)
+	(wire
+		(pts
+			(xy 53.34 20.32) (xy 53.34 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b40c4e27-34b8-4f05-affa-c810a012cc9c")
+	)
+	(wire
+		(pts
+			(xy 49.53 17.78) (xy 49.53 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc26e06d-d932-4a76-9042-95d31884fd49")
+	)
+	(wire
+		(pts
+			(xy 95.25 20.32) (xy 95.25 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d105ed0a-6d8e-4a58-8407-a3d5dbbd37bd")
+	)
+	(wire
+		(pts
+			(xy 167.64 17.78) (xy 167.64 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d14ff8a0-ddf2-4c78-b0eb-e27038d9f482")
+	)
+	(wire
+		(pts
+			(xy 15.24 24.13) (xy 16.51 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dab86c47-d4a6-4ae2-a47a-b1927e804f3e")
+	)
+	(wire
+		(pts
+			(xy 34.29 20.32) (xy 34.29 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "debbc70a-a8b7-4e43-977d-2bde2a8401dc")
+	)
+	(wire
+		(pts
+			(xy 115.57 24.13) (xy 116.84 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e001487d-0388-42a5-b567-f0f235de3887")
+	)
+	(wire
+		(pts
+			(xy 74.93 24.13) (xy 76.2 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e344d398-e399-4837-8e87-306b741f2a0f")
+	)
+	(hierarchical_label "DI_IN3"
+		(shape input)
+		(at 53.34 20.32 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0555e687-e17f-4053-9f75-0f1aaa76febe")
+	)
+	(hierarchical_label "DI_SLOW_LOGIC1"
+		(shape input)
+		(at 30.48 17.78 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "10f6312e-3c1c-49d0-99ea-97efa2329c30")
+	)
+	(hierarchical_label "DI_IN8"
+		(shape input)
+		(at 152.4 20.32 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3248ce6e-16a2-41cc-80eb-27abfc82d27d")
+	)
+	(hierarchical_label "DI_IN7"
+		(shape input)
+		(at 134.62 20.32 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3f7c9b98-00e9-497b-94ca-2bff4fb0c382")
+	)
+	(hierarchical_label "DI_SLOW_LOGIC7"
+		(shape input)
+		(at 149.86 17.78 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4c5722a3-b92c-4fb5-b7ae-09974c09a7ab")
+	)
+	(hierarchical_label "DI_SLOW_LOGIC3"
+		(shape input)
+		(at 68.58 17.78 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "51fc93f3-3ad2-44f7-91f7-1aba272252fb")
+	)
+	(hierarchical_label "DI_IN6"
+		(shape input)
+		(at 115.57 20.32 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5abdde8e-effc-46e0-bbca-1b2503def696")
+	)
+	(hierarchical_label "DI_IN5"
+		(shape input)
+		(at 95.25 20.32 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8c253a1c-c718-4f7b-afb5-88f86ec37441")
+	)
+	(hierarchical_label "DI_SLOW_LOGIC5"
+		(shape input)
+		(at 110.49 17.78 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "92985499-e472-4402-972b-cf193be26c03")
+	)
+	(hierarchical_label "DI_SLOW_LOGIC4"
+		(shape input)
+		(at 90.17 17.78 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9f1805a3-f8b5-4f2e-842a-a1e6527f650d")
+	)
+	(hierarchical_label "DI_SLOW_LOGIC6"
+		(shape input)
+		(at 130.81 17.78 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a57f724f-5e5a-4bce-bf9c-3019e280d58f")
+	)
+	(hierarchical_label "DI_IN4"
+		(shape input)
+		(at 74.93 20.32 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ba5026d1-095b-4df5-8f4e-cc2bb3d10c86")
+	)
+	(hierarchical_label "DI_IN1"
+		(shape input)
+		(at 15.24 20.32 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bd200cc7-aeb3-49d2-bb62-b8968e416116")
+	)
+	(hierarchical_label "DI_SLOW_LOGIC8"
+		(shape input)
+		(at 167.64 17.78 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cdd6333c-3dba-4063-a9e7-7cea54112bb3")
+	)
+	(hierarchical_label "DI_IN2"
+		(shape input)
+		(at 34.29 20.32 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f215bd85-63cb-4029-bf43-7836ac5532bb")
+	)
+	(hierarchical_label "DI_SLOW_LOGIC2"
+		(shape input)
+		(at 49.53 17.78 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f57de470-487e-40e0-9e8a-413bc3f61c52")
+	)
+	(sheet
+		(at 116.84 19.05)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2ee088ed-f4e8-4fea-bc5d-e6f1799fd248")
+		(property "Sheetname" "DI_Module6"
+			(at 116.84 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DI_Module.kicad_sch"
+			(at 116.84 27.2546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DI_Logic" input
+			(at 130.81 20.32 0)
+			(uuid "33151fa6-889c-41bd-8653-686af0ad0929")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DI_Field_IN" input
+			(at 116.84 24.13 180)
+			(uuid "2c43a9cb-2ea9-44cf-8789-44c9d55b8370")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b512afeb-e760-4bff-9b2c-befd9fe6697f"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 19.05)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4c56d938-ba02-4bbf-9b72-e30519982a4e")
+		(property "Sheetname" "DI_Module1"
+			(at 16.51 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DI_Module.kicad_sch"
+			(at 16.51 27.2546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DI_Logic" input
+			(at 30.48 20.32 0)
+			(uuid "24ce2fb1-1578-40bd-ad8d-f3d99013044a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DI_Field_IN" input
+			(at 16.51 24.13 180)
+			(uuid "500ad534-61b7-4344-b346-6c0319930ff3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b512afeb-e760-4bff-9b2c-befd9fe6697f"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 135.89 19.05)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6ef87b53-f753-4c4f-b7f3-a5de18c79639")
+		(property "Sheetname" "DI_Module7"
+			(at 135.89 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DI_Module.kicad_sch"
+			(at 135.89 27.2546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DI_Logic" input
+			(at 149.86 20.32 0)
+			(uuid "4219baaf-df64-430f-8032-22d52cb4fcfb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DI_Field_IN" input
+			(at 135.89 24.13 180)
+			(uuid "64dab284-3e34-490b-b625-46ec5f2beab7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b512afeb-e760-4bff-9b2c-befd9fe6697f"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 54.61 19.05)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9a3794b4-da84-4929-9c03-43d518bb93f2")
+		(property "Sheetname" "DI_Module3"
+			(at 54.61 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DI_Module.kicad_sch"
+			(at 54.61 27.2546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DI_Logic" input
+			(at 68.58 20.32 0)
+			(uuid "3679a8de-993b-4a05-83af-d9fcb6834f4e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DI_Field_IN" input
+			(at 54.61 24.13 180)
+			(uuid "5708501a-3b6b-44a0-9531-0fd8ac3fd1aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b512afeb-e760-4bff-9b2c-befd9fe6697f"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 35.56 19.05)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b7d068b7-0749-46be-81fd-f8e77704e761")
+		(property "Sheetname" "DI_Module2"
+			(at 35.56 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DI_Module.kicad_sch"
+			(at 35.56 27.2546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DI_Logic" input
+			(at 49.53 20.32 0)
+			(uuid "ea03218c-10f4-41fc-9733-81e4158555f8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DI_Field_IN" input
+			(at 35.56 24.13 180)
+			(uuid "3c0a98f3-ae01-4414-bfb6-d7d0e89b064e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b512afeb-e760-4bff-9b2c-befd9fe6697f"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 153.67 19.05)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "be42694a-7f28-4435-94b8-07227e1a7b52")
+		(property "Sheetname" "DI_Module8"
+			(at 153.67 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DI_Module.kicad_sch"
+			(at 153.67 27.2546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DI_Logic" input
+			(at 167.64 20.32 0)
+			(uuid "25ed55e3-b957-4a9f-b65b-883583a4d4c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DI_Field_IN" input
+			(at 153.67 24.13 180)
+			(uuid "23c3b70d-deb4-413c-8948-30d9100e0f38")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b512afeb-e760-4bff-9b2c-befd9fe6697f"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 19.05)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c53a33c4-3f61-472b-9464-d600121a2419")
+		(property "Sheetname" "DI_Module4"
+			(at 76.2 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DI_Module.kicad_sch"
+			(at 76.2 27.2546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DI_Logic" input
+			(at 90.17 20.32 0)
+			(uuid "62ef019e-1377-4b8b-8562-7e433f82f13c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DI_Field_IN" input
+			(at 76.2 24.13 180)
+			(uuid "043a0b28-85cb-40c1-b0ef-2d42d484f4b1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b512afeb-e760-4bff-9b2c-befd9fe6697f"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 96.52 19.05)
+		(size 13.97 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "de0419ad-dc18-40d2-a05a-2bdeee3ae302")
+		(property "Sheetname" "DI_Module5"
+			(at 96.52 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DI_Module.kicad_sch"
+			(at 96.52 27.2546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DI_Logic" input
+			(at 110.49 20.32 0)
+			(uuid "8001a191-9205-4fdd-a932-780dd21085ad")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DI_Field_IN" input
+			(at 96.52 24.13 180)
+			(uuid "2d472a06-9553-423c-b2b4-08ce7be6c96e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b512afeb-e760-4bff-9b2c-befd9fe6697f"
+					(page "14")
+				)
+			)
+		)
+	)
+)
