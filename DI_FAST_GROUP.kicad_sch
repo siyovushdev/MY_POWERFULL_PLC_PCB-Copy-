@@ -18,18 +18,6 @@
 		(uuid "2c8a950d-c8d8-4bad-bc75-bf3e951e957c")
 	)
 	(junction
-		(at 46.99 161.798)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "301cc696-6800-47e4-9183-f8b58b160d31")
-	)
-	(junction
-		(at 46.99 141.478)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3d9e5932-07d7-429b-b538-9bb980a8711b")
-	)
-	(junction
 		(at 47.498 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -62,26 +50,6 @@
 			(type default)
 		)
 		(uuid "0421df20-8070-47b0-9301-116715e65a61")
-	)
-	(wire
-		(pts
-			(xy 17.272 150.368) (xy 17.272 157.988)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "097ce1ef-7147-4498-861f-8f67879b454b")
-	)
-	(wire
-		(pts
-			(xy 18.542 150.368) (xy 17.272 150.368)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a250520-e5fd-4c70-8ba0-1ec6328d6177")
 	)
 	(wire
 		(pts
@@ -125,46 +93,6 @@
 	)
 	(wire
 		(pts
-			(xy 18.542 130.048) (xy 17.272 130.048)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "290d3f24-a37f-40ac-823a-22457389e8f1")
-	)
-	(wire
-		(pts
-			(xy 46.99 141.478) (xy 46.99 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3504b4b9-b9ea-48e2-b441-e1babca9142d")
-	)
-	(wire
-		(pts
-			(xy 46.99 140.97) (xy 46.99 141.478)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a0d3f4b-1903-4952-b7e4-9b5120025b45")
-	)
-	(wire
-		(pts
-			(xy 46.99 161.29) (xy 46.99 161.798)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a577503-9379-43be-85b3-10a383e788c5")
-	)
-	(wire
-		(pts
 			(xy 17.78 99.06) (xy 19.05 99.06)
 		)
 		(stroke
@@ -182,16 +110,6 @@
 			(type default)
 		)
 		(uuid "4cd2a5ba-338f-4d67-a504-dd4f33f9aee8")
-	)
-	(wire
-		(pts
-			(xy 48.26 161.29) (xy 48.26 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ce3be70-2877-4fff-ae52-e088dde5a021")
 	)
 	(wire
 		(pts
@@ -255,16 +173,6 @@
 	)
 	(wire
 		(pts
-			(xy 17.272 130.048) (xy 17.272 137.668)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "66ff1ede-bd6c-4c1d-ace2-78be7f57e484")
-	)
-	(wire
-		(pts
 			(xy 19.05 72.39) (xy 17.78 72.39)
 		)
 		(stroke
@@ -315,36 +223,6 @@
 	)
 	(wire
 		(pts
-			(xy 17.272 157.988) (xy 18.542 157.988)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80464838-bcf7-43d0-8b04-069963e5856c")
-	)
-	(wire
-		(pts
-			(xy 17.272 137.668) (xy 18.542 137.668)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8af76c30-7659-469d-a7f1-1f3c6e945d63")
-	)
-	(wire
-		(pts
-			(xy 46.99 161.798) (xy 46.99 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8eac27df-3023-48ba-854c-4e3f67a11d2c")
-	)
-	(wire
-		(pts
 			(xy 17.78 80.01) (xy 19.05 80.01)
 		)
 		(stroke
@@ -362,16 +240,6 @@
 			(type default)
 		)
 		(uuid "aa4e753a-9203-44d0-bf2f-02e2d9b79d5b")
-	)
-	(wire
-		(pts
-			(xy 48.26 162.56) (xy 46.99 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b1791b0b-0e04-46c1-b959-68b6a01d8b49")
 	)
 	(wire
 		(pts
@@ -483,16 +351,6 @@
 		)
 		(uuid "eead9ecb-5fcd-49e4-8ae2-16d1c9af5865")
 	)
-	(wire
-		(pts
-			(xy 49.53 140.97) (xy 46.99 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f77a64af-0a7e-44e0-b144-2bde778afa1c")
-	)
 	(hierarchical_label "DI_FAST_IN6"
 		(shape input)
 		(at 18.542 110.998 0)
@@ -592,17 +450,6 @@
 		)
 		(uuid "75199176-0973-4046-8985-3d0b1383583a")
 	)
-	(hierarchical_label "DI_FAST_LOGIC7"
-		(shape input)
-		(at 49.53 140.97 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "768152cc-a25c-41d3-9fbb-d3cb3a5d1fa8")
-	)
 	(hierarchical_label "DI_FAST_IN3"
 		(shape input)
 		(at 20.828 53.34 0)
@@ -613,17 +460,6 @@
 			(justify left)
 		)
 		(uuid "93b4f270-7a1f-4fe3-8103-4a1f41fe6411")
-	)
-	(hierarchical_label "DI_FAST_IN7"
-		(shape input)
-		(at 18.542 130.048 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9b3237f0-f927-43dc-b3d3-3ebb1ef4063e")
 	)
 	(hierarchical_label "DI_FAST_LOGIC4"
 		(shape input)
@@ -636,17 +472,6 @@
 		)
 		(uuid "c20b4f00-146c-4d3b-ac9d-d08d3b7ead30")
 	)
-	(hierarchical_label "DI_FAST_LOGIC8"
-		(shape input)
-		(at 48.26 161.798 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d7ea73c3-73a9-4e8b-acde-cad4657a6964")
-	)
 	(hierarchical_label "DI_FAST_IN5"
 		(shape input)
 		(at 19.05 91.44 0)
@@ -657,17 +482,6 @@
 			(justify left)
 		)
 		(uuid "efc230f5-1bd3-4da5-a3b2-08b5c61b2192")
-	)
-	(hierarchical_label "DI_FAST_IN8"
-		(shape input)
-		(at 18.542 150.368 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "feaaa235-6b8f-45af-8fee-054556f0bda8")
 	)
 	(sheet
 		(at 20.828 58.928)
@@ -797,72 +611,6 @@
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf"
 					(page "5")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 18.542 135.636)
-		(size 28.448 8.89)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "4c62837d-9558-4e8d-baa1-5946709130b8")
-		(property "Sheetname" "DI_Fast_Module7"
-			(at 18.542 134.9244 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "DI_Fast_Module.kicad_sch"
-			(at 18.542 145.1106 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "DI_FAST_LOGIC" input
-			(at 46.99 141.478 0)
-			(uuid "dcff432a-622e-4f05-9a6b-256dd2d235ce")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "DI_FAST_IN" input
-			(at 18.542 137.668 180)
-			(uuid "c1167e52-47fa-4746-ad64-9be7040d3722")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(instances
-			(project "MY_POWERFULL_PLC_PCB"
-				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf"
-					(page "22")
 				)
 			)
 		)
@@ -1127,72 +875,6 @@
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf"
 					(page "8")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 18.542 155.956)
-		(size 28.448 8.89)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "f83aa710-27d1-4e20-9dbf-17de4cd07122")
-		(property "Sheetname" "DI_Fast_Module2"
-			(at 18.542 155.2444 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "DI_Fast_Module.kicad_sch"
-			(at 18.542 165.4306 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "DI_FAST_LOGIC" input
-			(at 46.99 161.798 0)
-			(uuid "c1498321-c418-4e14-b058-a03fcdd16762")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "DI_FAST_IN" input
-			(at 18.542 157.988 180)
-			(uuid "ffce88c1-a54b-4182-ba76-acaaa4c755d3")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(instances
-			(project "MY_POWERFULL_PLC_PCB"
-				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf"
-					(page "6")
 				)
 			)
 		)
