@@ -120,7 +120,9 @@
   },
   "schematic": {
     "hierarchy_collapsed": [
-      "/cd88a99e-7476-4c7f-9829-e9cb7754fea7/"
+      "/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/",
+      "/cd88a99e-7476-4c7f-9829-e9cb7754fea7/",
+      "/b512afeb-e760-4bff-9b2c-befd9fe6697f/"
     ],
     "selection_filter": {
       "graphics": true,

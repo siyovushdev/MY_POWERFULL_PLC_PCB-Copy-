@@ -2294,7 +2294,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00a1fe22-6939-4167-ab5f-d8792624c855")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR018"
 			(at 186.69 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -2354,27 +2354,27 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/2ea0969e-c324-40b6-b641-91ef85428036"
-					(reference "#PWR038")
+					(reference "#PWR037")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/426b96bb-e83c-44fd-8bfd-3378dc0a109b"
-					(reference "#PWR026")
+					(reference "#PWR025")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/77c3811a-14c3-4612-aac2-7d393344fd54"
-					(reference "#PWR019")
+					(reference "#PWR018")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/9375b8fb-73a5-4303-95e1-89e55afe151d"
-					(reference "#PWR0119")
+					(reference "#PWR0118")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/acb836e1-a99d-4e6c-bf98-2244f47d884c"
-					(reference "#PWR052")
+					(reference "#PWR051")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/d022fea0-0dcb-4344-8ff7-1f17b356b97d"
-					(reference "#PWR045")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -2594,7 +2594,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33a8afde-0728-4012-b5da-723cd7689732")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR015"
 			(at 139.7 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -2654,27 +2654,27 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/2ea0969e-c324-40b6-b641-91ef85428036"
-					(reference "#PWR035")
+					(reference "#PWR034")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/426b96bb-e83c-44fd-8bfd-3378dc0a109b"
-					(reference "#PWR023")
+					(reference "#PWR022")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/77c3811a-14c3-4612-aac2-7d393344fd54"
-					(reference "#PWR016")
+					(reference "#PWR015")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/9375b8fb-73a5-4303-95e1-89e55afe151d"
-					(reference "#PWR0116")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/acb836e1-a99d-4e6c-bf98-2244f47d884c"
-					(reference "#PWR049")
+					(reference "#PWR048")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/d022fea0-0dcb-4344-8ff7-1f17b356b97d"
-					(reference "#PWR042")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -3016,7 +3016,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b2a5fb5-669a-468b-8239-95f2d8bcb2ee")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR019"
 			(at 201.93 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -3076,27 +3076,27 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/2ea0969e-c324-40b6-b641-91ef85428036"
-					(reference "#PWR039")
+					(reference "#PWR038")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/426b96bb-e83c-44fd-8bfd-3378dc0a109b"
-					(reference "#PWR027")
+					(reference "#PWR026")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/77c3811a-14c3-4612-aac2-7d393344fd54"
-					(reference "#PWR020")
+					(reference "#PWR019")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/9375b8fb-73a5-4303-95e1-89e55afe151d"
-					(reference "#PWR0120")
+					(reference "#PWR0119")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/acb836e1-a99d-4e6c-bf98-2244f47d884c"
-					(reference "#PWR053")
+					(reference "#PWR052")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/d022fea0-0dcb-4344-8ff7-1f17b356b97d"
-					(reference "#PWR046")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -3114,7 +3114,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7947300a-6c02-44ec-b4f4-bb90190b9b15")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR016"
 			(at 163.83 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -3174,27 +3174,27 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/2ea0969e-c324-40b6-b641-91ef85428036"
-					(reference "#PWR036")
+					(reference "#PWR035")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/426b96bb-e83c-44fd-8bfd-3378dc0a109b"
-					(reference "#PWR024")
+					(reference "#PWR023")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/77c3811a-14c3-4612-aac2-7d393344fd54"
-					(reference "#PWR017")
+					(reference "#PWR016")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/9375b8fb-73a5-4303-95e1-89e55afe151d"
-					(reference "#PWR0117")
+					(reference "#PWR0116")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/acb836e1-a99d-4e6c-bf98-2244f47d884c"
-					(reference "#PWR050")
+					(reference "#PWR049")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/d022fea0-0dcb-4344-8ff7-1f17b356b97d"
-					(reference "#PWR043")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -3212,7 +3212,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8683b34b-a473-468a-9ce2-ac819cc71603")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR020"
 			(at 201.93 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -3272,27 +3272,27 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/2ea0969e-c324-40b6-b641-91ef85428036"
-					(reference "#PWR040")
+					(reference "#PWR039")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/426b96bb-e83c-44fd-8bfd-3378dc0a109b"
-					(reference "#PWR028")
+					(reference "#PWR027")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/77c3811a-14c3-4612-aac2-7d393344fd54"
-					(reference "#PWR021")
+					(reference "#PWR020")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/9375b8fb-73a5-4303-95e1-89e55afe151d"
-					(reference "#PWR0121")
+					(reference "#PWR0120")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/acb836e1-a99d-4e6c-bf98-2244f47d884c"
-					(reference "#PWR054")
+					(reference "#PWR053")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/d022fea0-0dcb-4344-8ff7-1f17b356b97d"
-					(reference "#PWR047")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -3744,7 +3744,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e31278d1-5f4d-4935-a0bb-f7c9e264806d")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR021"
 			(at 203.2 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -3804,27 +3804,27 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/2ea0969e-c324-40b6-b641-91ef85428036"
-					(reference "#PWR041")
+					(reference "#PWR040")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/426b96bb-e83c-44fd-8bfd-3378dc0a109b"
-					(reference "#PWR029")
+					(reference "#PWR028")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/77c3811a-14c3-4612-aac2-7d393344fd54"
-					(reference "#PWR022")
+					(reference "#PWR021")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/9375b8fb-73a5-4303-95e1-89e55afe151d"
-					(reference "#PWR0122")
+					(reference "#PWR0121")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/acb836e1-a99d-4e6c-bf98-2244f47d884c"
-					(reference "#PWR055")
+					(reference "#PWR054")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/d022fea0-0dcb-4344-8ff7-1f17b356b97d"
-					(reference "#PWR048")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -3842,7 +3842,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e366b238-2cdb-49dc-8bff-eded5f424e47")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR017"
 			(at 186.69 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -3902,27 +3902,27 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/2ea0969e-c324-40b6-b641-91ef85428036"
-					(reference "#PWR037")
+					(reference "#PWR036")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/426b96bb-e83c-44fd-8bfd-3378dc0a109b"
-					(reference "#PWR025")
+					(reference "#PWR024")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/77c3811a-14c3-4612-aac2-7d393344fd54"
-					(reference "#PWR018")
+					(reference "#PWR017")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/9375b8fb-73a5-4303-95e1-89e55afe151d"
-					(reference "#PWR0118")
+					(reference "#PWR0117")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/acb836e1-a99d-4e6c-bf98-2244f47d884c"
-					(reference "#PWR051")
+					(reference "#PWR050")
 					(unit 1)
 				)
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/d022fea0-0dcb-4344-8ff7-1f17b356b97d"
-					(reference "#PWR044")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)

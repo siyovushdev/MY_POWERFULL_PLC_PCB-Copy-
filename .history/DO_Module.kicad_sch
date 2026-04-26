@@ -786,7 +786,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "62f02e08-260b-4f1d-a48a-94754bbf507b")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR014"
 			(at 162.56 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -846,35 +846,35 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7/083e0903-10e0-4333-8a78-a405e0b2d736"
-					(reference "#PWR0135")
-					(unit 1)
-				)
-				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7/2aef95d2-2c30-40be-8c14-0215016b017e"
-					(reference "#PWR0137")
-					(unit 1)
-				)
-				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7/545fcf9b-eeef-4eeb-9d66-a702c656a5ab"
-					(reference "#PWR0133")
-					(unit 1)
-				)
-				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7/56d03984-44a3-4c56-98d7-b20c00e0a18b"
-					(reference "#PWR0131")
-					(unit 1)
-				)
-				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7/766466a4-2cfd-482c-84a4-77458e0d34d5"
-					(reference "#PWR015")
-					(unit 1)
-				)
-				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7/a6daff05-ba85-4a20-b37d-4bb1001be398"
 					(reference "#PWR0134")
 					(unit 1)
 				)
-				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7/c8f5f1b6-08d1-401d-8244-8cfd0e22a8e9"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7/2aef95d2-2c30-40be-8c14-0215016b017e"
 					(reference "#PWR0136")
 					(unit 1)
 				)
-				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7/eae37c15-9932-48d6-9cd7-06fe0e2bdb1f"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7/545fcf9b-eeef-4eeb-9d66-a702c656a5ab"
 					(reference "#PWR0132")
+					(unit 1)
+				)
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7/56d03984-44a3-4c56-98d7-b20c00e0a18b"
+					(reference "#PWR0130")
+					(unit 1)
+				)
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7/766466a4-2cfd-482c-84a4-77458e0d34d5"
+					(reference "#PWR014")
+					(unit 1)
+				)
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7/a6daff05-ba85-4a20-b37d-4bb1001be398"
+					(reference "#PWR0133")
+					(unit 1)
+				)
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7/c8f5f1b6-08d1-401d-8244-8cfd0e22a8e9"
+					(reference "#PWR0135")
+					(unit 1)
+				)
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7/eae37c15-9932-48d6-9cd7-06fe0e2bdb1f"
+					(reference "#PWR0131")
 					(unit 1)
 				)
 			)
@@ -1022,7 +1022,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+		(property "Footprint" "Package_TO_SOT_SMD:TO-252-3_TabPin2"
 			(at 165.1 74.93 0)
 			(hide yes)
 			(show_name no)

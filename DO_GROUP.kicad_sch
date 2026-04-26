@@ -947,7 +947,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06277afe-f1d8-402d-81c0-5c73107a3313")
-		(property "Reference" "#PWR0128"
+		(property "Reference" "#PWR0127"
 			(at 175.26 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -1007,7 +1007,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7"
-					(reference "#PWR0128")
+					(reference "#PWR0127")
 					(unit 1)
 				)
 			)
@@ -1107,7 +1107,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30353f52-5e97-48a6-b84b-96c7dcdb3f14")
-		(property "Reference" "#PWR0126"
+		(property "Reference" "#PWR0125"
 			(at 113.03 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -1167,7 +1167,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7"
-					(reference "#PWR0126")
+					(reference "#PWR0125")
 					(unit 1)
 				)
 			)
@@ -1185,7 +1185,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "496e66fe-48ee-4644-abb4-6d755c3d75da")
-		(property "Reference" "#PWR0124"
+		(property "Reference" "#PWR0123"
 			(at 53.34 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -1245,7 +1245,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7"
-					(reference "#PWR0124")
+					(reference "#PWR0123")
 					(unit 1)
 				)
 			)
@@ -1427,7 +1427,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f5c828a-7583-4a6c-90f6-440ccf2cc5b2")
-		(property "Reference" "#PWR0127"
+		(property "Reference" "#PWR0126"
 			(at 147.32 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -1487,7 +1487,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7"
-					(reference "#PWR0127")
+					(reference "#PWR0126")
 					(unit 1)
 				)
 			)
@@ -1669,7 +1669,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94fddb54-bc95-4a8f-b459-5774b60b77f7")
-		(property "Reference" "#PWR0123"
+		(property "Reference" "#PWR0122"
 			(at 21.59 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -1729,7 +1729,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7"
-					(reference "#PWR0123")
+					(reference "#PWR0122")
 					(unit 1)
 				)
 			)
@@ -1747,7 +1747,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "96ee37a0-3502-47bd-92af-aab2b1499eb2")
-		(property "Reference" "#PWR0125"
+		(property "Reference" "#PWR0124"
 			(at 81.28 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -1807,7 +1807,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7"
-					(reference "#PWR0125")
+					(reference "#PWR0124")
 					(unit 1)
 				)
 			)
@@ -1825,7 +1825,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af5f9c05-9814-4a15-a235-d38ad7d9485f")
-		(property "Reference" "#PWR0130"
+		(property "Reference" "#PWR0129"
 			(at 238.76 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -1885,7 +1885,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7"
-					(reference "#PWR0130")
+					(reference "#PWR0129")
 					(unit 1)
 				)
 			)
@@ -2067,7 +2067,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d85d36d4-9ace-46bb-b69b-9a0534eb6070")
-		(property "Reference" "#PWR0129"
+		(property "Reference" "#PWR0128"
 			(at 204.47 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -2127,7 +2127,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/cd88a99e-7476-4c7f-9829-e9cb7754fea7"
-					(reference "#PWR0129")
+					(reference "#PWR0128")
 					(unit 1)
 				)
 			)
