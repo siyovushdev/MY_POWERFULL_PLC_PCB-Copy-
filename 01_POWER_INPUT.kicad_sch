@@ -1089,6 +1089,145 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:+24V"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "+24V"
+				(at 0 3.556 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+24V\""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "+24V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+24V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power global)
 			(pin_numbers
@@ -1294,6 +1433,16 @@
 			(type default)
 		)
 		(uuid "3cf3a30b-a0cd-447d-9850-8ca5b1763b9f")
+	)
+	(wire
+		(pts
+			(xy 143.51 123.19) (xy 146.05 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45189126-00a8-46ee-beba-01a22ae37b99")
 	)
 	(wire
 		(pts
@@ -1548,7 +1697,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1cba0264-6603-46e5-b460-f89b76687227")
-		(property "Reference" "#PWR095"
+		(property "Reference" "#PWR0152"
 			(at 93.98 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -1559,7 +1708,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "FIELD_GND"
 			(at 93.98 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1608,7 +1757,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "#PWR095")
+					(reference "#PWR0152")
 					(unit 1)
 				)
 			)
@@ -1707,7 +1856,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3e345c5b-54a5-4f28-b68d-344a262e7a23")
-		(property "Reference" "#PWR096"
+		(property "Reference" "#PWR0153"
 			(at 140.97 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -1718,7 +1867,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "FIELD_GND"
 			(at 140.97 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1767,7 +1916,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "#PWR096")
+					(reference "#PWR0153")
 					(unit 1)
 				)
 			)
@@ -1853,6 +2002,84 @@
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
 					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+24V")
+		(at 146.05 123.19 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "59fde25d-6d7f-4487-bbe3-2a918b3434f1")
+		(property "Reference" "#PWR0155"
+			(at 146.05 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+24V"
+			(at 146.05 118.11 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 146.05 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+24V\""
+			(at 146.05 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7cbbadd4-da09-4674-ab62-97b2a0d28cfc")
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
+					(reference "#PWR0155")
 					(unit 1)
 				)
 			)
@@ -1951,7 +2178,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6a8663e3-e6f8-4e3f-81ba-de17de8b489f")
-		(property "Reference" "J13"
+		(property "Reference" "J16"
 			(at 142.24 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2013,7 +2240,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "J13")
+					(reference "J16")
 					(unit 1)
 				)
 			)
@@ -2113,7 +2340,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c0d7c097-bd29-4d50-af79-883ab3e27d61")
-		(property "Reference" "#PWR097"
+		(property "Reference" "#PWR0154"
 			(at 143.51 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -2124,7 +2351,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "FIELD_GND"
 			(at 143.51 144.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2173,7 +2400,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "#PWR097")
+					(reference "#PWR0154")
 					(unit 1)
 				)
 			)

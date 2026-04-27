@@ -1414,7 +1414,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "150e707a-d2ce-4377-846a-dd264d257cbb")
-		(property "Reference" "#PWR098"
+		(property "Reference" "#PWR0156"
 			(at 62.23 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -1425,7 +1425,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "FIELD_GND"
 			(at 62.23 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1474,7 +1474,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/07a9e096-29cf-491a-9eb0-699b02d84850"
-					(reference "#PWR098")
+					(reference "#PWR0156")
 					(unit 1)
 				)
 			)
@@ -1676,7 +1676,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3364cba6-5a88-4192-bf09-57248de2acc4")
-		(property "Reference" "#PWR099"
+		(property "Reference" "#PWR0157"
 			(at 77.47 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -1687,7 +1687,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "FIELD_GND"
 			(at 77.47 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1736,7 +1736,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/07a9e096-29cf-491a-9eb0-699b02d84850"
-					(reference "#PWR099")
+					(reference "#PWR0157")
 					(unit 1)
 				)
 			)
@@ -1753,7 +1753,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a47713a-6af9-4271-b6bf-052026c65481")
-		(property "Reference" "#PWR0100"
+		(property "Reference" "#PWR0158"
 			(at 90.17 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -1764,7 +1764,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "FIELD_GND"
 			(at 90.17 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1813,7 +1813,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/07a9e096-29cf-491a-9eb0-699b02d84850"
-					(reference "#PWR0100")
+					(reference "#PWR0158")
 					(unit 1)
 				)
 			)
@@ -1830,7 +1830,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4792ea89-49b3-41c6-ab65-844614d96b0a")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR0161"
 			(at 156.21 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -1841,7 +1841,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "Logic_GND"
 			(at 156.21 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1890,7 +1890,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/07a9e096-29cf-491a-9eb0-699b02d84850"
-					(reference "#PWR0103")
+					(reference "#PWR0161")
 					(unit 1)
 				)
 			)
@@ -1907,7 +1907,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "48740b5f-e62d-42bb-8d6d-37d21c8e7210")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR0160"
 			(at 147.32 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -1918,7 +1918,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "Logic_GND"
 			(at 147.32 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1967,7 +1967,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/07a9e096-29cf-491a-9eb0-699b02d84850"
-					(reference "#PWR0102")
+					(reference "#PWR0160")
 					(unit 1)
 				)
 			)
@@ -2077,7 +2077,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "71b2ab29-d651-46a6-9f5e-df28ef4b00de")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR0159"
 			(at 114.3 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -2088,7 +2088,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "FIELD_GND"
 			(at 114.3 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2137,7 +2137,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/07a9e096-29cf-491a-9eb0-699b02d84850"
-					(reference "#PWR0101")
+					(reference "#PWR0159")
 					(unit 1)
 				)
 			)
@@ -2154,7 +2154,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "72030f19-6ab1-4f25-a0bc-57fd812eced9")
-		(property "Reference" "#PWR0106"
+		(property "Reference" "#PWR0164"
 			(at 187.96 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -2165,7 +2165,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "Logic_GND"
 			(at 187.96 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2214,7 +2214,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/07a9e096-29cf-491a-9eb0-699b02d84850"
-					(reference "#PWR0106")
+					(reference "#PWR0164")
 					(unit 1)
 				)
 			)
@@ -2403,7 +2403,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "93f3b61b-0d84-49dd-b209-9ca103a787e4")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR0162"
 			(at 158.75 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2414,7 +2414,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "Logic_GND"
 			(at 158.75 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2463,7 +2463,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/07a9e096-29cf-491a-9eb0-699b02d84850"
-					(reference "#PWR0104")
+					(reference "#PWR0162")
 					(unit 1)
 				)
 			)
@@ -3050,7 +3050,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbb6ac69-c956-4398-ac90-3ce40a3b5676")
-		(property "Reference" "#PWR0107"
+		(property "Reference" "#PWR0165"
 			(at 201.93 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -3061,7 +3061,7 @@
 				)
 			)
 		)
-		(property "Value" "5V_MAIN"
+		(property "Value" "+5V"
 			(at 201.93 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3110,7 +3110,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/07a9e096-29cf-491a-9eb0-699b02d84850"
-					(reference "#PWR0107")
+					(reference "#PWR0165")
 					(unit 1)
 				)
 			)
@@ -3127,7 +3127,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f56b2984-5682-4ae1-ab75-2c1a618c10f7")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR0163"
 			(at 171.45 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -3138,7 +3138,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "Logic_GND"
 			(at 171.45 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3187,7 +3187,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/07a9e096-29cf-491a-9eb0-699b02d84850"
-					(reference "#PWR0105")
+					(reference "#PWR0163")
 					(unit 1)
 				)
 			)

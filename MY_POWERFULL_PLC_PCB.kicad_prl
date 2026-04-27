@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -21,7 +21,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -52,7 +52,7 @@
       "shapes"
     ],
     "visible_layers": "00000000_00000000_55557fdf_77ffff7f",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "git": {
     "integration_disabled": false,
@@ -119,11 +119,7 @@
     "files": []
   },
   "schematic": {
-    "hierarchy_collapsed": [
-      "/dc612884-1e2d-4b63-adb6-4d3ed94f1bbf/",
-      "/cd88a99e-7476-4c7f-9829-e9cb7754fea7/",
-      "/b512afeb-e760-4bff-9b2c-befd9fe6697f/"
-    ],
+    "hierarchy_collapsed": [],
     "selection_filter": {
       "graphics": true,
       "images": true,

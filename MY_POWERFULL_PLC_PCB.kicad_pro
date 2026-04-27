@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 1.0
         }
       },
       "diff_pair_dimensions": [
@@ -775,7 +775,7 @@
         "uuid": "69a480d6-fa06-4fdd-8ed7-9beeb2ac027a"
       }
     ],
-    "used_designators": "MOD1,RFBT1,RFBB1_TRIM1,#PWR1-186,RFBT1_TRIM1,C1-51,U1-40,D1-46,Q1-17,F1,CIN1-5,COUT1-3,CCOUT1-2,H1-8,J1-13,L1,R1-100,RFBB1",
+    "used_designators": "RFBT1,RFBB1_TRIM1,#PWR1-251,RFBT1_TRIM1,C1-51,U1-40,D1-46,CCOUT1-2,Q1-17,F1,CIN1-5,COUT1-3,J1-22,L1,MOD1,R1-100,RFBB1",
     "variants": []
   },
   "sheets": [
