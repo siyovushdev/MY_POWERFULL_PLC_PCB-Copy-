@@ -1,424 +1,346 @@
 ** Drc report for MY_POWERFULL_PLC_PCB.kicad_pcb **
-** Created on 2026-04-27T12:31:31 **
+** Created on 2026-04-28T11:30:33 **
 ** Report includes: Errors **
 
-** Found 64 DRC violations **
-[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4000 mm)
-    Rule: board setup constraints edge; error
-    @(14.0449 mm, 84.3000 mm): Rectangle on Edge.Cuts
-    @(145.9349 mm, 169.6500 mm): Pad 1 [+24V] of D28 on B.Cu
+** Found 74 DRC violations **
 [courtyards_overlap]: Courtyards overlap
     Rule: board setup constraints courtyard; error
-    @(135.4000 mm, 33.0500 mm): Footprint J21
+    @(135.4000 mm, 33.0500 mm): Footprint J14
     @(162.6031 mm, 25.8123 mm): Footprint U6
-[courtyards_overlap]: Courtyards overlap
-    Rule: board setup constraints courtyard; error
-    @(143.9738 mm, 32.3338 mm): Footprint J12
-    @(162.6031 mm, 25.8123 mm): Footprint U6
-[courtyards_overlap]: Courtyards overlap
-    Rule: board setup constraints courtyard; error
-    @(90.8830 mm, 167.5418 mm): Footprint D46
-    @(87.4068 mm, 167.5418 mm): Footprint D44
-[courtyards_overlap]: Courtyards overlap
-    Rule: board setup constraints courtyard; error
-    @(71.3592 mm, 167.5418 mm): Footprint D40
-    @(74.7449 mm, 167.5418 mm): Footprint D43
-[courtyards_overlap]: Courtyards overlap
-    Rule: board setup constraints courtyard; error
-    @(162.6031 mm, 25.8123 mm): Footprint U6
-    @(143.9738 mm, 39.4638 mm): Footprint J13
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1788 mm)
-    Rule: netclass 'Default'; error
-    @(42.4250 mm, 43.2350 mm): PTH pad 20 [/MCU_STM32/DO_SLOW_CTRL8] of J20
-    @(41.9129 mm, 42.0800 mm): Track [/MCU_STM32/DI_IN9_LOGIC11] on F.Cu, length 1.1355 mm
-[clearance]: Clearance violation (netclass 'PWR_3V3' clearance 0.2500 mm; actual 0.2150 mm)
-    Rule: netclass 'PWR_3V3'; error
-    @(136.8750 mm, 132.9621 mm): Track [/ETH_MDIO] on B.Cu, length 6.7771 mm
-    @(138.0900 mm, 130.0250 mm): PTH pad 14 [+3V3] of J16
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1859 mm)
-    Rule: netclass 'Default'; error
-    @(85.6050 mm, 43.2350 mm): PTH pad 54 [/MCU_STM32/AD7606_CONVST] of J20
-    @(86.7800 mm, 42.8037 mm): Track [/MCU_STM32/AD7606_SCK] on B.Cu, length 28.3531 mm
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1750 mm)
-    Rule: netclass 'Default'; error
-    @(53.9500 mm, 44.4800 mm): Track [/MCU_STM32/DO_PWM_CTRL1] on F.Cu, length 1.8329 mm
-    @(55.1250 mm, 45.7750 mm): PTH pad 29 [/MCU_STM32/DI_SLOW_LOGIC8] of J20
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1900 mm)
-    Rule: netclass 'Default'; error
-    @(56.4750 mm, 45.3779 mm): Track [/MCU_STM32/DO_SLOW_CTRL8] on B.Cu, length 5.2163 mm
-    @(57.6650 mm, 45.7750 mm): PTH pad 31 [/MCU_STM32/DI_SLOW_LOGIC7] of J20
-[clearance]: Clearance violation (netclass 'PWR_24V' clearance 0.5000 mm; actual 0.4000 mm)
-    Rule: netclass 'PWR_24V'; error
-    @(84.5449 mm, 95.4000 mm): Track [/DI_IN1] on B.Cu, length 3.5639 mm
-    @(87.9549 mm, 92.8000 mm): PTH pad 16 [+24V] of J2
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0950 mm)
-    Rule: netclass 'Default'; error
-    @(81.9949 mm, 128.9700 mm): Track [/AD7606_CS] on F.Cu, length 1.4086 mm
-    @(83.1650 mm, 127.7250 mm): PTH pad 51 [/AD7606_RST] of J3
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1176 mm)
-    Rule: netclass 'Default'; error
-    @(83.4035 mm, 128.9700 mm): Track [/AD7606_CS] on F.Cu, length 5.9963 mm
-    @(83.1650 mm, 127.7250 mm): PTH pad 51 [/AD7606_RST] of J3
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1550 mm)
-    Rule: netclass 'Default'; error
-    @(69.1900 mm, 44.6200 mm): Track [/MCU_STM32/DO_PWM_CTRL6] on F.Cu, length 4.2371 mm
-    @(70.3650 mm, 45.7750 mm): PTH pad 41 [/MCU_STM32/DI_SLOW_LOGIC2] of J20
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1750 mm)
-    Rule: netclass 'Default'; error
-    @(55.1250 mm, 43.2350 mm): PTH pad 30 [/MCU_STM32/DO_PWM_CTRL1] of J20
-    @(53.9500 mm, 42.7829 mm): Track [/MCU_STM32/DO_PWM_CTRL5] on F.Cu, length 0.9900 mm
-[clearance]: Clearance violation (netclass 'PWR_3V3' clearance 0.2500 mm; actual 0.2000 mm)
-    Rule: netclass 'PWR_3V3'; error
-    @(138.4371 mm, 49.4900 mm): Track [/MCU_STM32/ETH_RXD1] on F.Cu, length 2.4083 mm
-    @(137.9400 mm, 48.2900 mm): PTH pad 14 [+3V3] of J21
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1900 mm)
-    Rule: netclass 'Default'; error
-    @(61.5550 mm, 44.6750 mm): Track [/MCU_STM32/DO_PWM_CTRL3] on B.Cu, length 2.5200 mm
-    @(62.7450 mm, 45.7750 mm): PTH pad 35 [/MCU_STM32/DI_SLOW_LOGIC5] of J20
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1550 mm)
-    Rule: netclass 'Default'; error
-    @(42.4250 mm, 43.2350 mm): PTH pad 20 [/MCU_STM32/DO_SLOW_CTRL8] of J20
-    @(47.5000 mm, 42.0800 mm): Track [/MCU_STM32/DI_IN9_LOGIC11] on F.Cu, length 5.5871 mm
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1635 mm)
-    Rule: netclass 'Default'; error
-    @(72.9050 mm, 43.2350 mm): PTH pad 44 [/MCU_STM32/DO_PWM_CTRL8] of J20
-    @(73.3985 mm, 42.0715 mm): Track [/MCU_STM32/DO_PWM_CTRL7] on B.Cu, length 1.8371 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3718 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(69.5488 mm, 111.4000 mm): Track [Net-(R42-Pad1)] on B.Cu, length 0.6364 mm
+    @(68.8863 mm, 112.3500 mm): Pad 3 [FIELD_GND] of U25 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.4159 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(69.9988 mm, 112.9125 mm): Track [Net-(R42-Pad1)] on B.Cu, length 1.6794 mm
+    @(68.8863 mm, 112.3500 mm): Pad 3 [FIELD_GND] of U25 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(63.4328 mm, 112.3500 mm): Via [FIELD_GND] on F.Cu - B.Cu
+    @(63.4328 mm, 111.4000 mm): Pad 2 [Net-(R46-Pad1)] of U27 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.4001 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(150.6899 mm, 142.7175 mm): Track [/01_POWER_INPUT/24V_Protected] on B.Cu, length 6.6376 mm
+    @(151.6400 mm, 141.9600 mm): Via [FIELD_GND] on F.Cu - B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3000 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(69.9988 mm, 111.8500 mm): Track [Net-(R42-Pad1)] on B.Cu, length 1.0625 mm
+    @(68.8863 mm, 112.3500 mm): Pad 3 [FIELD_GND] of U25 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.4225 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(151.5800 mm, 140.4400 mm): Via [FIELD_GND] on F.Cu - B.Cu
+    @(156.3399 mm, 139.2175 mm): Track [+5V] on F.Cu, length 5.6000 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(74.1988 mm, 111.3500 mm): Pad 2 [Net-(R38-Pad1)] of U23 on B.Cu
+    @(74.1988 mm, 112.3000 mm): Via [FIELD_GND] on F.Cu - B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3401 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(151.5800 mm, 140.4400 mm): Via [FIELD_GND] on F.Cu - B.Cu
+    @(150.6899 mm, 142.7175 mm): Track [/01_POWER_INPUT/24V_Protected] on B.Cu, length 6.6376 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(94.7863 mm, 111.4000 mm): Pad 2 [Net-(R22-Pad1)] of U15 on B.Cu
+    @(94.7863 mm, 112.3500 mm): Via [FIELD_GND] on F.Cu - B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3601 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(150.6899 mm, 142.7175 mm): Track [/01_POWER_INPUT/24V_Protected] on B.Cu, length 6.6376 mm
+    @(151.6000 mm, 141.2800 mm): Via [FIELD_GND] on F.Cu - B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(100.6488 mm, 112.0266 mm): Track [Net-(R18-Pad1)] on B.Cu, length 0.9359 mm
+    @(99.4863 mm, 112.4500 mm): Pad 3 [FIELD_GND] of U13 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.4159 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(99.4863 mm, 112.4500 mm): Pad 3 [FIELD_GND] of U13 on B.Cu
+    @(100.6488 mm, 112.9625 mm): Track [Net-(R18-Pad1)] on B.Cu, length 1.7501 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(89.5113 mm, 111.3500 mm): Pad 2 [Net-(R26-Pad1)] of U17 on B.Cu
+    @(89.5113 mm, 112.3000 mm): Via [FIELD_GND] on F.Cu - B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3529 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(99.4863 mm, 112.4500 mm): Pad 3 [FIELD_GND] of U13 on B.Cu
+    @(100.1222 mm, 111.5000 mm): Track [Net-(R18-Pad1)] on B.Cu, length 0.7447 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3029 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(84.7515 mm, 111.3000 mm): Track [Net-(R30-Pad1)] on B.Cu, length 0.7740 mm
+    @(84.1863 mm, 112.2500 mm): Pad 3 [FIELD_GND] of U19 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.4159 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(84.1863 mm, 112.2500 mm): Pad 3 [FIELD_GND] of U19 on B.Cu
+    @(85.2988 mm, 112.8125 mm): Track [Net-(R30-Pad1)] on B.Cu, length 1.6794 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3000 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(67.7738 mm, 110.9973 mm): Track [FIELD_GND] on B.Cu, length 1.8223 mm
+    @(68.8863 mm, 110.4500 mm): Pad 1 [unconnected-(U25-NC-Pad1)] of U25 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3000 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(84.1863 mm, 112.2500 mm): Pad 3 [FIELD_GND] of U19 on B.Cu
+    @(85.2988 mm, 111.8473 mm): Track [Net-(R30-Pad1)] on B.Cu, length 0.9652 mm
 [clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.4206 mm)
     Rule: netclass 'FIELD_24V'; error
     @(152.0340 mm, 137.6375 mm): Pad 1 [FIELD_GND] of U29 on B.Cu
     @(152.0340 mm, 136.6875 mm): Track [Net-(U29-SW)] on B.Cu, length 0.8310 mm
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1717 mm)
-    Rule: netclass 'Default'; error
-    @(72.9050 mm, 43.2350 mm): PTH pad 44 [/MCU_STM32/DO_PWM_CTRL8] of J20
-    @(74.2215 mm, 42.8944 mm): Track [/MCU_STM32/DO_PWM_CTRL7] on B.Cu, length 1.1638 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.4499 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(152.8899 mm, 142.3175 mm): Track [Net-(U29-SW)] on B.Cu, length 0.9000 mm
+    @(151.6400 mm, 141.9600 mm): Via [FIELD_GND] on F.Cu - B.Cu
 [clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.4571 mm)
     Rule: netclass 'FIELD_24V'; error
     @(152.0340 mm, 137.6375 mm): Pad 1 [FIELD_GND] of U29 on B.Cu
     @(152.8650 mm, 136.6875 mm): Track [Net-(U29-SW)] on B.Cu, length 0.8553 mm
-[clearance]: Clearance violation (netclass 'PWR_3V3' clearance 0.2500 mm; actual 0.2000 mm)
-    Rule: netclass 'PWR_3V3'; error
-    @(135.4000 mm, 48.2900 mm): PTH pad 13 [+3V3] of J21
-    @(130.9529 mm, 49.4900 mm): Track [/MCU_STM32/ETH_RXD1] on F.Cu, length 7.4842 mm
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1750 mm)
-    Rule: netclass 'Default'; error
-    @(24.6450 mm, 45.7750 mm): PTH pad 5 [LOGIC_GND] of J20
-    @(23.4700 mm, 57.6600 mm): Track [/MCU_STM32/DO_SLOW_CTRL1] on F.Cu, length 13.1800 mm
-[clearance]: Clearance violation (netclass 'PWR_3V3' clearance 0.2500 mm; actual 0.2450 mm)
-    Rule: netclass 'PWR_3V3'; error
-    @(79.1600 mm, 44.4300 mm): Track [/MCU_STM32/AD7606_MISO] on B.Cu, length 1.8663 mm
-    @(77.9850 mm, 43.2350 mm): PTH pad 48 [+3V3] of J20
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1550 mm)
-    Rule: netclass 'Default'; error
-    @(39.8850 mm, 45.7750 mm): PTH pad 17 [/MCU_STM32/DI_IN9_LOGIC10] of J20
-    @(40.2671 mm, 44.6200 mm): Track [/MCU_STM32/DI_IN9_LOGIC11] on F.Cu, length 1.6971 mm
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1550 mm)
-    Rule: netclass 'Default'; error
-    @(59.3700 mm, 30.2100 mm): Track [/MCU_STM32/DI_IN9_LOGIC11] on F.Cu, length 16.7867 mm
-    @(47.5050 mm, 43.2350 mm): PTH pad 24 [LOGIC_GND] of J20
-[clearance]: Clearance violation (netclass 'PWR_3V3' clearance 0.2500 mm; actual 0.2000 mm)
-    Rule: netclass 'PWR_3V3'; error
-    @(139.4250 mm, 48.5021 mm): Track [/MCU_STM32/ETH_TXD0] on B.Cu, length 14.4079 mm
-    @(137.9400 mm, 48.2900 mm): PTH pad 14 [+3V3] of J21
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1859 mm)
-    Rule: netclass 'Default'; error
-    @(72.9050 mm, 45.7750 mm): PTH pad 43 [/MCU_STM32/DI_SLOW_LOGIC1] of J20
-    @(73.4271 mm, 44.6200 mm): Track [/MCU_STM32/DO_PWM_CTRL6] on F.Cu, length 0.9941 mm
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1505 mm)
-    Rule: netclass 'Default'; error
-    @(55.1250 mm, 43.2350 mm): PTH pad 30 [/MCU_STM32/DO_PWM_CTRL1] of J20
-    @(54.6529 mm, 42.0800 mm): Track [/MCU_STM32/DO_PWM_CTRL5] on F.Cu, length 0.9941 mm
-[clearance]: Clearance violation (netclass 'PWR_3V3' clearance 0.2500 mm; actual 0.1450 mm)
-    Rule: netclass 'PWR_3V3'; error
-    @(60.3050 mm, 125.1850 mm): PTH pad 34 [/DI_SLOW_LOGIC6] of J3
-    @(76.8549 mm, 126.3300 mm): Track [+3V3] on B.Cu, length 22.1278 mm
-[clearance]: Clearance violation (netclass 'PWR_3V3' clearance 0.2500 mm; actual 0.1617 mm)
-    Rule: netclass 'PWR_3V3'; error
-    @(54.7271 mm, 126.3300 mm): Track [+3V3] on B.Cu, length 1.0355 mm
-    @(55.2250 mm, 125.1850 mm): PTH pad 30 [/DI_SLOW_LOGIC8] of J3
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1859 mm)
-    Rule: netclass 'Default'; error
-    @(81.7000 mm, 42.8037 mm): Track [/MCU_STM32/AD7606_BUSY] on B.Cu, length 6.3479 mm
-    @(80.5250 mm, 43.2350 mm): PTH pad 50 [/MCU_STM32/AD7606_CS] of J20
-[clearance]: Clearance violation (netclass 'PWR_3V3' clearance 0.2500 mm; actual 0.2301 mm)
-    Rule: netclass 'PWR_3V3'; error
-    @(53.9949 mm, 125.5978 mm): Track [+3V3] on B.Cu, length 1.1729 mm
-    @(55.2250 mm, 125.1850 mm): PTH pad 30 [/DI_SLOW_LOGIC8] of J3
-[clearance]: Clearance violation (netclass 'PWR_24V' clearance 0.5000 mm; actual 0.4070 mm)
-    Rule: netclass 'PWR_24V'; error
-    @(88.1088 mm, 95.4000 mm): Track [/DI_IN1] on B.Cu, length 7.0110 mm
-    @(87.9549 mm, 92.8000 mm): PTH pad 16 [+24V] of J2
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1550 mm)
-    Rule: netclass 'Default'; error
-    @(53.1029 mm, 44.6200 mm): Track [/MCU_STM32/DO_PWM_CTRL5] on F.Cu, length 1.1300 mm
-    @(52.5850 mm, 45.7750 mm): PTH pad 27 [+5V] of J20
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1550 mm)
-    Rule: netclass 'Default'; error
-    @(55.1250 mm, 43.2350 mm): PTH pad 30 [/MCU_STM32/DO_PWM_CTRL1] of J20
-    @(64.1100 mm, 42.0800 mm): Track [/MCU_STM32/DO_PWM_CTRL5] on F.Cu, length 9.4571 mm
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1600 mm)
-    Rule: netclass 'Default'; error
-    @(135.0379 mm, 116.1650 mm): Track [/ETH_TXD1] on B.Cu, length 1.6971 mm
-    @(135.5500 mm, 117.3250 mm): PTH pad 3 [/ETH_TXD0] of J16
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1651 mm)
-    Rule: netclass 'Default'; error
-    @(123.7000 mm, 139.5850 mm): PTH pad 3 [/ETH_TXD0] of J11
-    @(122.5349 mm, 141.1250 mm): Track [/ETH_TXD1] on B.Cu, length 12.4570 mm
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1823 mm)
-    Rule: netclass 'Default'; error
-    @(122.5349 mm, 128.6680 mm): Track [/ETH_TXD1] on B.Cu, length 17.6820 mm
-    @(135.5500 mm, 117.3250 mm): PTH pad 3 [/ETH_TXD0] of J16
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1965 mm)
-    Rule: netclass 'Default'; error
-    @(70.3650 mm, 45.7750 mm): PTH pad 41 [/MCU_STM32/DI_SLOW_LOGIC2] of J20
-    @(71.5615 mm, 55.9007 mm): Track [/MCU_STM32/DO_PWM_CTRL8] on B.Cu, length 11.2892 mm
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1823 mm)
-    Rule: netclass 'Default'; error
-    @(124.9349 mm, 128.8080 mm): Track [/ETH_TX_EN] on B.Cu, length 14.2879 mm
-    @(135.5500 mm, 119.8650 mm): PTH pad 5 [/ETH_RXD1] of J16
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1600 mm)
-    Rule: netclass 'Default'; error
-    @(135.0379 mm, 118.7050 mm): Track [/ETH_TX_EN] on B.Cu, length 1.6971 mm
-    @(135.5500 mm, 119.8650 mm): PTH pad 5 [/ETH_RXD1] of J16
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1823 mm)
-    Rule: netclass 'Default'; error
-    @(127.4749 mm, 128.8080 mm): Track [/ETH_RXD0] on B.Cu, length 10.6958 mm
-    @(135.5500 mm, 122.4050 mm): PTH pad 7 [/ETH_CRS_DV] of J16
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1600 mm)
-    Rule: netclass 'Default'; error
-    @(135.0379 mm, 121.2450 mm): Track [/ETH_RXD0] on B.Cu, length 1.6971 mm
-    @(135.5500 mm, 122.4050 mm): PTH pad 7 [/ETH_CRS_DV] of J16
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1823 mm)
-    Rule: netclass 'Default'; error
-    @(135.5500 mm, 124.9450 mm): PTH pad 9 [/ETH_MDC] of J16
-    @(130.0149 mm, 128.8080 mm): Track [/ETH_REF_CLK] on B.Cu, length 7.1037 mm
-[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1600 mm)
-    Rule: netclass 'Default'; error
-    @(135.5500 mm, 124.9450 mm): PTH pad 9 [/ETH_MDC] of J16
-    @(135.0379 mm, 123.7850 mm): Track [/ETH_REF_CLK] on B.Cu, length 1.6971 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.4972 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(151.6000 mm, 141.2800 mm): Via [FIELD_GND] on F.Cu - B.Cu
+    @(152.8899 mm, 141.4175 mm): Track [Net-(U29-SW)] on B.Cu, length 0.1131 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(84.1863 mm, 112.2500 mm): Via [FIELD_GND] on F.Cu - B.Cu
+    @(84.1863 mm, 111.3000 mm): Pad 2 [Net-(R30-Pad1)] of U19 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(79.2113 mm, 112.3000 mm): Via [FIELD_GND] on F.Cu - B.Cu
+    @(79.2113 mm, 111.3500 mm): Pad 2 [Net-(R34-Pad1)] of U21 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(92.9249 mm, 124.3800 mm): Pad 1 [FIELD_GND] of U1 on F.Cu
+    @(88.4249 mm, 122.3800 mm): Track [/AD7606_SCK] on F.Cu, length 13.1200 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(68.8863 mm, 111.4000 mm): Pad 2 [Net-(R42-Pad1)] of U25 on B.Cu
+    @(68.8863 mm, 112.3500 mm): Via [FIELD_GND] on F.Cu - B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(99.4863 mm, 112.4500 mm): Via [FIELD_GND] on F.Cu - B.Cu
+    @(99.4863 mm, 111.5000 mm): Pad 2 [Net-(R18-Pad1)] of U13 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3400 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(122.5000 mm, 141.1599 mm): Track [/ETH_TXD1] on B.Cu, length 12.7399 mm
+    @(121.1600 mm, 139.5850 mm): PTH pad 1 [FIELD_GND] of J6
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.2650 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(135.5500 mm, 114.7850 mm): PTH pad 1 [FIELD_GND] of J9
+    @(122.5000 mm, 128.4200 mm): Track [/ETH_TXD1] on B.Cu, length 17.4938 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.2650 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(135.5500 mm, 114.7850 mm): PTH pad 1 [FIELD_GND] of J9
+    @(134.8700 mm, 116.0500 mm): Track [/ETH_TXD1] on B.Cu, length 1.9800 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.4621 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(135.5500 mm, 114.7850 mm): PTH pad 1 [FIELD_GND] of J9
+    @(136.8500 mm, 116.0500 mm): Track [/ETH_TXD1] on B.Cu, length 1.7324 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.4159 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(94.7863 mm, 112.3500 mm): Pad 3 [FIELD_GND] of U15 on B.Cu
+    @(95.8988 mm, 112.9125 mm): Track [Net-(R22-Pad1)] on B.Cu, length 1.6794 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3718 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(94.7863 mm, 112.3500 mm): Pad 3 [FIELD_GND] of U15 on B.Cu
+    @(95.4488 mm, 111.4000 mm): Track [Net-(R22-Pad1)] on B.Cu, length 0.6364 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3000 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(94.7863 mm, 112.3500 mm): Pad 3 [FIELD_GND] of U15 on B.Cu
+    @(95.8988 mm, 111.8500 mm): Track [Net-(R22-Pad1)] on B.Cu, length 1.0625 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.4159 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(79.2113 mm, 112.3000 mm): Pad 3 [FIELD_GND] of U21 on B.Cu
+    @(80.3238 mm, 112.8625 mm): Track [Net-(R34-Pad1)] on B.Cu, length 1.6794 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3718 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(79.2113 mm, 112.3000 mm): Pad 3 [FIELD_GND] of U21 on B.Cu
+    @(79.8738 mm, 111.3500 mm): Track [Net-(R34-Pad1)] on B.Cu, length 0.6364 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3000 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(79.2113 mm, 112.3000 mm): Pad 3 [FIELD_GND] of U21 on B.Cu
+    @(80.3238 mm, 111.8000 mm): Track [Net-(R34-Pad1)] on B.Cu, length 1.0625 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.2500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(57.4799 mm, 117.1800 mm): Pad 3 [FIELD_GND] of U2 on B.Cu
+    @(58.5424 mm, 119.8774 mm): Track [+3V3] on B.Cu, length 5.1650 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3000 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(90.6238 mm, 111.8000 mm): Track [Net-(R26-Pad1)] on B.Cu, length 1.0625 mm
+    @(89.5113 mm, 112.3000 mm): Pad 3 [FIELD_GND] of U17 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3051 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(132.5549 mm, 141.2650 mm): Track [/ETH_MDIO] on B.Cu, length 3.9828 mm
+    @(133.8600 mm, 139.5850 mm): PTH pad 11 [FIELD_GND] of J6
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.4159 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(90.6238 mm, 112.8625 mm): Track [Net-(R26-Pad1)] on B.Cu, length 1.6794 mm
+    @(89.5113 mm, 112.3000 mm): Pad 3 [FIELD_GND] of U17 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3718 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(90.1738 mm, 111.3500 mm): Track [Net-(R26-Pad1)] on B.Cu, length 0.6364 mm
+    @(89.5113 mm, 112.3000 mm): Pad 3 [FIELD_GND] of U17 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.2719 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(75.5450 mm, 125.1850 mm): PTH pad 46 [FIELD_GND] of J3
+    @(76.8131 mm, 126.4569 mm): Track [+3V3] on B.Cu, length 22.0938 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3000 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(64.5453 mm, 111.9473 mm): Track [Net-(R46-Pad1)] on B.Cu, length 0.9652 mm
+    @(63.4328 mm, 112.3500 mm): Pad 3 [FIELD_GND] of U27 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.2700 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(136.8200 mm, 133.0171 mm): Track [/ETH_MDIO] on B.Cu, length 6.7771 mm
+    @(138.0900 mm, 127.4850 mm): PTH pad 12 [FIELD_GND] of J9
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3029 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(63.9979 mm, 111.4000 mm): Track [Net-(R46-Pad1)] on B.Cu, length 0.7740 mm
+    @(63.4328 mm, 112.3500 mm): Pad 3 [FIELD_GND] of U27 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.4159 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(63.4328 mm, 112.3500 mm): Pad 3 [FIELD_GND] of U27 on B.Cu
+    @(64.5453 mm, 112.9125 mm): Track [Net-(R46-Pad1)] on B.Cu, length 1.6794 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3000 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(74.1988 mm, 112.3000 mm): Pad 3 [FIELD_GND] of U23 on B.Cu
+    @(75.3113 mm, 111.8973 mm): Track [Net-(R38-Pad1)] on B.Cu, length 0.9652 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3029 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(74.1988 mm, 112.3000 mm): Pad 3 [FIELD_GND] of U23 on B.Cu
+    @(74.7640 mm, 111.3500 mm): Track [Net-(R38-Pad1)] on B.Cu, length 0.7740 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.4159 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(74.1988 mm, 112.3000 mm): Pad 3 [FIELD_GND] of U23 on B.Cu
+    @(75.3113 mm, 112.8625 mm): Track [Net-(R38-Pad1)] on B.Cu, length 1.6794 mm
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(45.4256 mm, 116.2300 mm): Pad 2 [/DI_FAST_GROUP/DI_Fast_Module3/DI_RAW] of U7 on B.Cu
+    @(45.4256 mm, 117.1800 mm): Pad 3 [FIELD_GND] of U7 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(57.4799 mm, 116.2300 mm): Pad 2 [/DI_FAST_GROUP/DI_Fast_Module/DI_RAW] of U2 on B.Cu
+    @(57.4799 mm, 117.1800 mm): Pad 3 [FIELD_GND] of U2 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(33.3713 mm, 116.2300 mm): Pad 2 [/DI_FAST_GROUP/DI_Fast_Module5/DI_RAW] of U11 on B.Cu
+    @(33.3713 mm, 117.1800 mm): Pad 3 [FIELD_GND] of U11 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(68.8863 mm, 111.4000 mm): Pad 2 [Net-(R42-Pad1)] of U25 on B.Cu
+    @(68.8863 mm, 112.3500 mm): Pad 3 [FIELD_GND] of U25 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(94.7863 mm, 111.4000 mm): Pad 2 [Net-(R22-Pad1)] of U15 on B.Cu
+    @(94.7863 mm, 112.3500 mm): Pad 3 [FIELD_GND] of U15 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(68.6154 mm, 138.4700 mm): Pad 5 [FIELD_GND] of U35 on B.Cu
+    @(68.6154 mm, 139.4200 mm): Pad 6 [Net-(U35-IN+)] of U35 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(99.3986 mm, 138.4700 mm): Pad 5 [FIELD_GND] of U39 on B.Cu
+    @(99.3986 mm, 139.4200 mm): Pad 6 [Net-(U39-IN+)] of U39 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(63.3674 mm, 140.1229 mm): Pad 6 [Net-(U33-IN+)] of U33 on F.Cu
+    @(63.3674 mm, 139.1729 mm): Pad 5 [FIELD_GND] of U33 on F.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(115.0154 mm, 138.4700 mm): Pad 5 [FIELD_GND] of U40 on B.Cu
+    @(115.0154 mm, 139.4200 mm): Pad 6 [Net-(U40-IN+)] of U40 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(27.3442 mm, 116.2300 mm): Pad 2 [/DI_FAST_GROUP/DI_Fast_Module6/DI_RAW] of U31 on B.Cu
+    @(27.3442 mm, 117.1800 mm): Pad 3 [FIELD_GND] of U31 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(84.1863 mm, 111.3000 mm): Pad 2 [Net-(R30-Pad1)] of U19 on B.Cu
+    @(84.1863 mm, 112.2500 mm): Pad 3 [FIELD_GND] of U19 on B.Cu
 [clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3912 mm)
     Rule: netclass 'FIELD_24V'; error
-    @(152.0340 mm, 136.6875 mm): Pad 2 [Net-(U29-SW)] of U29 on B.Cu
     @(152.0340 mm, 137.6375 mm): Pad 1 [FIELD_GND] of U29 on B.Cu
+    @(152.0340 mm, 136.6875 mm): Pad 2 [Net-(U29-SW)] of U29 on B.Cu
 [clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
     Rule: netclass 'FIELD_24V'; error
-    @(88.7154 mm, 139.4200 mm): Pad 6 [Net-(U39-IN+)] of U39 on B.Cu
-    @(88.7154 mm, 138.4700 mm): Pad 5 [FIELD_GND] of U39 on B.Cu
+    @(79.2113 mm, 111.3500 mm): Pad 2 [Net-(R34-Pad1)] of U21 on B.Cu
+    @(79.2113 mm, 112.3000 mm): Pad 3 [FIELD_GND] of U21 on B.Cu
 [clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
     Rule: netclass 'FIELD_24V'; error
-    @(100.0154 mm, 139.4200 mm): Pad 6 [Net-(U40-IN+)] of U40 on B.Cu
-    @(100.0154 mm, 138.4700 mm): Pad 5 [FIELD_GND] of U40 on B.Cu
+    @(39.3985 mm, 116.2300 mm): Pad 2 [/DI_FAST_GROUP/DI_Fast_Module4/DI_RAW] of U9 on B.Cu
+    @(39.3985 mm, 117.1800 mm): Pad 3 [FIELD_GND] of U9 on B.Cu
 [clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
     Rule: netclass 'FIELD_24V'; error
-    @(70.2674 mm, 138.0000 mm): Pad 5 [FIELD_GND] of U34 on F.Cu
-    @(70.2674 mm, 138.9500 mm): Pad 6 [Net-(U34-IN+)] of U34 on F.Cu
+    @(93.3868 mm, 139.1729 mm): Pad 5 [FIELD_GND] of U36 on F.Cu
+    @(93.3868 mm, 140.1229 mm): Pad 6 [Net-(U36-IN+)] of U36 on F.Cu
 [clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
     Rule: netclass 'FIELD_24V'; error
-    @(80.6474 mm, 138.2000 mm): Pad 5 [FIELD_GND] of U36 on F.Cu
-    @(80.6474 mm, 139.1500 mm): Pad 6 [Net-(U36-IN+)] of U36 on F.Cu
+    @(63.4328 mm, 111.4000 mm): Pad 2 [Net-(R46-Pad1)] of U27 on B.Cu
+    @(63.4328 mm, 112.3500 mm): Pad 3 [FIELD_GND] of U27 on B.Cu
 [clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
     Rule: netclass 'FIELD_24V'; error
-    @(67.6154 mm, 139.4200 mm): Pad 6 [Net-(U35-IN+)] of U35 on B.Cu
-    @(67.6154 mm, 138.4700 mm): Pad 5 [FIELD_GND] of U35 on B.Cu
+    @(99.4863 mm, 111.5000 mm): Pad 2 [Net-(R18-Pad1)] of U13 on B.Cu
+    @(99.4863 mm, 112.4500 mm): Pad 3 [FIELD_GND] of U13 on B.Cu
 [clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
     Rule: netclass 'FIELD_24V'; error
-    @(60.3674 mm, 138.1000 mm): Pad 5 [FIELD_GND] of U33 on F.Cu
-    @(60.3674 mm, 139.0500 mm): Pad 6 [Net-(U33-IN+)] of U33 on F.Cu
+    @(89.5113 mm, 111.3500 mm): Pad 2 [Net-(R26-Pad1)] of U17 on B.Cu
+    @(89.5113 mm, 112.3000 mm): Pad 3 [FIELD_GND] of U17 on B.Cu
 [clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
     Rule: netclass 'FIELD_24V'; error
-    @(91.1674 mm, 138.2000 mm): Pad 5 [FIELD_GND] of U38 on F.Cu
-    @(91.1674 mm, 139.1500 mm): Pad 6 [Net-(U38-IN+)] of U38 on F.Cu
+    @(108.5741 mm, 139.1729 mm): Pad 5 [FIELD_GND] of U38 on F.Cu
+    @(108.5741 mm, 140.1229 mm): Pad 6 [Net-(U38-IN+)] of U38 on F.Cu
 [clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
     Rule: netclass 'FIELD_24V'; error
-    @(78.3154 mm, 139.5200 mm): Pad 6 [Net-(U37-IN+)] of U37 on B.Cu
-    @(78.3154 mm, 138.5700 mm): Pad 5 [FIELD_GND] of U37 on B.Cu
-[zones_intersect]: Copper zones intersect (intersecting zones must have distinct priorities)
-    Local override; error
-    @(103.2500 mm, 107.0000 mm): Zone [LOGIC_GND] on B.Cu, priority 3
-    @(5.4000 mm, 106.8363 mm): Zone [LOGIC_GND] on B.Cu, priority 3
-[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0000 mm)
-    Rule: board setup constraints; error
-    @(118.3149 mm, 102.8300 mm): PTH pad 39 [/AD7606_V5] of U1
-[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0000 mm)
-    Rule: board setup constraints; error
-    @(118.3149 mm, 102.8300 mm): PTH pad 39 [/AD7606_V5] of U1
-[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0000 mm)
-    Rule: board setup constraints; error
-    @(115.7749 mm, 105.3700 mm): PTH pad 38 [GND] of U1
-[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0000 mm)
-    Rule: board setup constraints; error
-    @(115.7749 mm, 105.3700 mm): PTH pad 38 [GND] of U1
-[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0000 mm)
-    Rule: board setup constraints; error
-    @(113.2349 mm, 102.8300 mm): PTH pad 35 [/AD7606_V3] of U1
-[annular_width]: Annular width (board setup constraints min annular width 0.1000 mm; actual 0.0000 mm)
-    Rule: board setup constraints; error
-    @(113.2349 mm, 102.8300 mm): PTH pad 35 [/AD7606_V3] of U1
+    @(78.2571 mm, 139.1729 mm): Pad 5 [FIELD_GND] of U34 on F.Cu
+    @(78.2571 mm, 140.1229 mm): Pad 6 [Net-(U34-IN+)] of U34 on F.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(74.1988 mm, 111.3500 mm): Pad 2 [Net-(R38-Pad1)] of U23 on B.Cu
+    @(74.1988 mm, 112.3000 mm): Pad 3 [FIELD_GND] of U23 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(84.0070 mm, 138.4700 mm): Pad 5 [FIELD_GND] of U37 on B.Cu
+    @(84.0070 mm, 139.4200 mm): Pad 6 [Net-(U37-IN+)] of U37 on B.Cu
+[clearance]: Clearance violation (netclass 'FIELD_24V' clearance 0.5000 mm; actual 0.3500 mm)
+    Rule: netclass 'FIELD_24V'; error
+    @(51.4528 mm, 116.2300 mm): Pad 2 [/DI_FAST_GROUP/DI_Fast_Module1/DI_RAW] of U4 on B.Cu
+    @(51.4528 mm, 117.1800 mm): Pad 3 [FIELD_GND] of U4 on B.Cu
 
-** Found 41 unconnected pads **
+** Found 10 unconnected pads **
 [unconnected_items]: Missing connection between items
     Local override; error
-    @(132.1777 mm, 66.5000 mm): Track [+5V] on B.Cu, length 102.4077 mm
-    @(52.5850 mm, 45.7750 mm): PTH pad 27 [+5V] of J20
+    @(111.4311 mm, 153.5724 mm): Track [/DO_OUT14] on F.Cu, length 4.2290 mm
+    @(111.4311 mm, 147.2724 mm): Pad 2 [/DO_OUT14] of Q15 on F.Cu
 [unconnected_items]: Missing connection between items
     Local override; error
-    @(31.0963 mm, 108.8800 mm): Pad 1 [+5V] of C15 on B.Cu
-    @(132.1777 mm, 66.5000 mm): Track [+5V] on B.Cu, length 102.4077 mm
+    @(110.0049 mm, 146.2800 mm): Pad 2 [/DO_OUT16] of Q17 on B.Cu
+    @(110.0049 mm, 152.5800 mm): Pad 2 [/DO_OUT16] of Q17 on B.Cu
 [unconnected_items]: Missing connection between items
     Local override; error
-    @(52.5850 mm, 45.7750 mm): PTH pad 27 [+5V] of J20
-    @(52.5850 mm, 42.9459 mm): Track [+5V] on F.Cu, length 0.2891 mm
+    @(97.1838 mm, 147.2724 mm): Pad 2 [/DO_OUT12] of Q13 on F.Cu
+    @(97.1838 mm, 153.5724 mm): Pad 2 [/DO_OUT12] of Q13 on F.Cu
 [unconnected_items]: Missing connection between items
     Local override; error
-    @(25.0692 mm, 108.8800 mm): Track [+5V] on B.Cu, length 32.1357 mm
-    @(93.7000 mm, 110.8250 mm): Track [+5V] on F.Cu, length 32.9712 mm
+    @(82.8541 mm, 153.7724 mm): Pad 2 [/DO_OUT10] of Q11 on F.Cu
+    @(82.8541 mm, 147.4724 mm): Pad 2 [/DO_OUT10] of Q11 on F.Cu
 [unconnected_items]: Missing connection between items
     Local override; error
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-    @(5.5199 mm, 130.5344 mm): Zone [FIELD_GND] on F.Cu, priority 2
+    @(68.2844 mm, 153.6724 mm): Track [/DO_OUT9] on F.Cu, length 6.2277 mm
+    @(68.2844 mm, 147.3724 mm): Pad 2 [/DO_OUT9] of Q10 on F.Cu
 [unconnected_items]: Missing connection between items
     Local override; error
-    @(5.5199 mm, 130.5344 mm): Zone [FIELD_GND] on F.Cu, priority 2
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
+    @(66.7978 mm, 146.2800 mm): Pad 2 [/DO_OUT11] of Q12 on B.Cu
+    @(66.7978 mm, 152.5800 mm): Track [/DO_OUT11] on B.Cu, length 0.8245 mm
 [unconnected_items]: Missing connection between items
     Local override; error
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
+    @(81.2251 mm, 152.4800 mm): Track [/DO_OUT13] on B.Cu, length 4.7296 mm
+    @(81.2251 mm, 146.1800 mm): Pad 2 [/DO_OUT13] of Q14 on B.Cu
 [unconnected_items]: Missing connection between items
     Local override; error
-    @(5.5199 mm, 130.5344 mm): Zone [FIELD_GND] on F.Cu, priority 2
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
+    @(95.9524 mm, 152.5800 mm): Track [/DO_OUT15] on B.Cu, length 5.5030 mm
+    @(95.9524 mm, 146.2800 mm): Pad 2 [/DO_OUT15] of Q16 on B.Cu
 [unconnected_items]: Missing connection between items
     Local override; error
-    @(5.5199 mm, 130.5344 mm): Zone [FIELD_GND] on F.Cu, priority 2
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
+    @(5.5701 mm, 83.4264 mm): Zone [FIELD_GND] on F.Cu and B.Cu, priority 2
+    @(5.5701 mm, 83.4264 mm): Zone [FIELD_GND] on F.Cu and B.Cu, priority 2
 [unconnected_items]: Missing connection between items
     Local override; error
-    @(5.5199 mm, 130.5344 mm): Zone [FIELD_GND] on F.Cu, priority 2
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.5199 mm, 130.5344 mm): Zone [FIELD_GND] on F.Cu, priority 2
-    @(5.5199 mm, 130.5344 mm): Zone [FIELD_GND] on F.Cu, priority 2
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.5199 mm, 130.5344 mm): Zone [FIELD_GND] on F.Cu, priority 2
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.5199 mm, 130.5344 mm): Zone [FIELD_GND] on F.Cu, priority 2
-    @(5.5199 mm, 130.5344 mm): Zone [FIELD_GND] on F.Cu, priority 2
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-    @(5.5199 mm, 130.5344 mm): Zone [FIELD_GND] on F.Cu, priority 2
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-    @(5.5199 mm, 130.5344 mm): Zone [FIELD_GND] on F.Cu, priority 2
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-    @(5.5199 mm, 130.5344 mm): Zone [FIELD_GND] on F.Cu, priority 2
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.5199 mm, 130.5344 mm): Zone [FIELD_GND] on F.Cu, priority 2
-    @(5.5199 mm, 130.5344 mm): Zone [FIELD_GND] on F.Cu, priority 2
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.5199 mm, 130.5344 mm): Zone [FIELD_GND] on F.Cu, priority 2
-    @(5.5719 mm, 84.4299 mm): Zone [FIELD_GND] on F.Cu, priority 2
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-    @(5.5032 mm, 130.2789 mm): Zone [FIELD_GND] on B.Cu, priority 2
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(148.8863 mm, 16.8500 mm): Track [+3V3] on F.Cu, length 121.3213 mm
-    @(72.9200 mm, 28.8800 mm): Track [+3V3] on F.Cu, length 9.2900 mm
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(61.1578 mm, 110.4500 mm): Track [+3V3] on B.Cu, length 1.6875 mm
-    @(58.5424 mm, 114.8980 mm): Track [+3V3] on B.Cu, length 1.0579 mm
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(132.9250 mm, 55.3250 mm): Track [+3V3] on F.Cu, length 23.2000 mm
-    @(140.3545 mm, 109.5250 mm): Track [+3V3] on F.Cu, length 5.8336 mm
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.4000 mm, 106.8363 mm): Zone [LOGIC_GND] on B.Cu, priority 3
-    @(18.2198 mm, 112.9232 mm): Zone [LOGIC_GND] on F.Cu, priority 1
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(18.2198 mm, 112.9232 mm): Zone [LOGIC_GND] on F.Cu, priority 1
-    @(5.4000 mm, 106.8363 mm): Zone [LOGIC_GND] on B.Cu, priority 3
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(18.2198 mm, 112.9232 mm): Zone [LOGIC_GND] on F.Cu, priority 1
-    @(5.4000 mm, 106.8363 mm): Zone [LOGIC_GND] on B.Cu, priority 3
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.4000 mm, 106.8363 mm): Zone [LOGIC_GND] on B.Cu, priority 3
-    @(18.2198 mm, 112.9232 mm): Zone [LOGIC_GND] on F.Cu, priority 1
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(5.4000 mm, 106.8363 mm): Zone [LOGIC_GND] on B.Cu, priority 3
-    @(18.2198 mm, 112.9232 mm): Zone [LOGIC_GND] on F.Cu, priority 1
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(10.0500 mm, 9.9000 mm): Zone [LOGIC_GND] on B.Cu, priority 3
-    @(10.3809 mm, 10.4500 mm): Zone [LOGIC_GND] on F.Cu, priority 3
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(97.4750 mm, 106.2750 mm): Track [LOGIC_GND] on F.Cu, length 0.9012 mm
-    @(93.0500 mm, 73.5750 mm): Via [LOGIC_GND] on F.Cu - B.Cu
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(108.1549 mm, 105.3700 mm): PTH pad 32 [GND] of U1
-    @(110.6949 mm, 105.3700 mm): PTH pad 34 [GND] of U1
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(110.6949 mm, 105.3700 mm): PTH pad 34 [GND] of U1
-    @(113.2349 mm, 105.3700 mm): PTH pad 36 [GND] of U1
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(113.2349 mm, 105.3700 mm): PTH pad 36 [GND] of U1
-    @(115.7749 mm, 105.3700 mm): PTH pad 38 [GND] of U1
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(115.7749 mm, 105.3700 mm): PTH pad 38 [GND] of U1
-    @(118.3149 mm, 105.3700 mm): PTH pad 40 [GND] of U1
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(118.3149 mm, 105.3700 mm): PTH pad 40 [GND] of U1
-    @(120.8549 mm, 105.3700 mm): PTH pad 42 [GND] of U1
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(120.8549 mm, 105.3700 mm): PTH pad 42 [GND] of U1
-    @(123.3949 mm, 105.3700 mm): PTH pad 44 [GND] of U1
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(123.3949 mm, 105.3700 mm): PTH pad 44 [GND] of U1
-    @(125.9349 mm, 105.3700 mm): PTH pad 46 [GND] of U1
+    @(52.5850 mm, 42.5350 mm): Track [+5V_Core] on F.Cu, length 0.7000 mm
+    @(52.5850 mm, 45.7750 mm): Track [+5V_Core] on B.Cu, length 3.4300 mm
 
 ** Found 0 Footprint errors **
 

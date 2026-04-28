@@ -1,0 +1,11 @@
+Plotted to '/home/siovush/KikadProjects/MY_POWERFULL_PLC_PCB/MY_POWERFULL_PLC_PCB-F_Cu.gbr'.
+Plotted to '/home/siovush/KikadProjects/MY_POWERFULL_PLC_PCB/MY_POWERFULL_PLC_PCB-B_Cu.gbr'.
+Plotted to '/home/siovush/KikadProjects/MY_POWERFULL_PLC_PCB/MY_POWERFULL_PLC_PCB-F_Paste.gbr'.
+Plotted to '/home/siovush/KikadProjects/MY_POWERFULL_PLC_PCB/MY_POWERFULL_PLC_PCB-B_Paste.gbr'.
+Plotted to '/home/siovush/KikadProjects/MY_POWERFULL_PLC_PCB/MY_POWERFULL_PLC_PCB-F_Silkscreen.gbr'.
+Plotted to '/home/siovush/KikadProjects/MY_POWERFULL_PLC_PCB/MY_POWERFULL_PLC_PCB-B_Silkscreen.gbr'.
+Plotted to '/home/siovush/KikadProjects/MY_POWERFULL_PLC_PCB/MY_POWERFULL_PLC_PCB-F_Mask.gbr'.
+Plotted to '/home/siovush/KikadProjects/MY_POWERFULL_PLC_PCB/MY_POWERFULL_PLC_PCB-B_Mask.gbr'.
+Plotted to '/home/siovush/KikadProjects/MY_POWERFULL_PLC_PCB/MY_POWERFULL_PLC_PCB-Edge_Cuts.gbr'.
+Created Gerber job file '/home/siovush/KikadProjects/MY_POWERFULL_PLC_PCB/MY_POWERFULL_PLC_PCB-job.gbrjob'.
+Info: Done.

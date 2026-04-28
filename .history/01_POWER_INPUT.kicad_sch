@@ -1697,7 +1697,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1cba0264-6603-46e5-b460-f89b76687227")
-		(property "Reference" "#PWR0152"
+		(property "Reference" "#PWR0144"
 			(at 93.98 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -1757,7 +1757,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "#PWR0152")
+					(reference "#PWR0144")
 					(unit 1)
 				)
 			)
@@ -1856,7 +1856,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3e345c5b-54a5-4f28-b68d-344a262e7a23")
-		(property "Reference" "#PWR0153"
+		(property "Reference" "#PWR0145"
 			(at 140.97 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -1916,7 +1916,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "#PWR0153")
+					(reference "#PWR0145")
 					(unit 1)
 				)
 			)
@@ -2019,7 +2019,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59fde25d-6d7f-4487-bbe3-2a918b3434f1")
-		(property "Reference" "#PWR0155"
+		(property "Reference" "#PWR0147"
 			(at 146.05 127 0)
 			(hide yes)
 			(show_name no)
@@ -2079,7 +2079,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "#PWR0155")
+					(reference "#PWR0147")
 					(unit 1)
 				)
 			)
@@ -2178,7 +2178,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6a8663e3-e6f8-4e3f-81ba-de17de8b489f")
-		(property "Reference" "J16"
+		(property "Reference" "J15"
 			(at 142.24 87.63 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2240,7 +2240,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "J16")
+					(reference "J15")
 					(unit 1)
 				)
 			)
@@ -2340,7 +2340,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c0d7c097-bd29-4d50-af79-883ab3e27d61")
-		(property "Reference" "#PWR0154"
+		(property "Reference" "#PWR0146"
 			(at 143.51 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -2400,7 +2400,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/a42fd33d-b090-4b65-8e1f-262d12ff9550"
-					(reference "#PWR0154")
+					(reference "#PWR0146")
 					(unit 1)
 				)
 			)

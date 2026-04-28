@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 1.0
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -640,7 +640,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "./",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -775,7 +775,7 @@
         "uuid": "69a480d6-fa06-4fdd-8ed7-9beeb2ac027a"
       }
     ],
-    "used_designators": "RFBT1,RFBB1_TRIM1,#PWR1-251,RFBT1_TRIM1,C1-51,U1-40,D1-46,CCOUT1-2,Q1-17,F1,CIN1-5,COUT1-3,J1-22,L1,MOD1,R1-100,RFBB1",
+    "used_designators": "RFBT1,RFBB1_TRIM1,#PWR1-250,RFBT1_TRIM1,C1-51,U1-40,D1-46,CCOUT1-2,Q1-17,F1,CIN1-5,COUT1-3,J1-16,L1,MOD1,R1-100,RFBB1",
     "variants": []
   },
   "sheets": [

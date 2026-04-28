@@ -4882,10 +4882,34 @@
 		(uuid "ff95ca36-d05c-403d-bf48-bf519d566ceb")
 	)
 	(junction
+		(at 50.8 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1ad51ea1-d559-42a9-94b5-5feef34d1169")
+	)
+	(junction
 		(at 152.4 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1ad7c08c-4241-4a76-be49-d7af97dfc010")
+	)
+	(junction
+		(at 53.34 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1b830bd0-84aa-4b97-9773-a43dbd801351")
+	)
+	(junction
+		(at 53.34 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "21c8da89-ac57-4387-a3b8-6e592c713815")
+	)
+	(junction
+		(at 53.34 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3766652e-53fb-4fe3-a1ba-e487fc259b26")
 	)
 	(junction
 		(at 139.7 59.69)
@@ -4900,6 +4924,24 @@
 		(uuid "4294f0be-ac56-474e-b04e-8a6a35a9596b")
 	)
 	(junction
+		(at 50.8 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4814d7fc-3387-4e20-931f-689dc64060c0")
+	)
+	(junction
+		(at 45.72 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "49da9988-60a4-4f54-8393-3baa6fb75e6d")
+	)
+	(junction
+		(at 45.72 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4fb88c00-3e66-4d88-9998-93ba4b66e40f")
+	)
+	(junction
 		(at 114.3 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4912,16 +4954,58 @@
 		(uuid "5a003089-9ba4-4b65-afe3-e66c804aad2e")
 	)
 	(junction
+		(at 50.8 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "600ecf43-3818-4692-97c2-e4cf440153ad")
+	)
+	(junction
 		(at 127 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "67600ee7-9267-47b7-b117-115e1a4ef344")
 	)
 	(junction
+		(at 43.18 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "693efbdc-3781-4bf8-882c-ee916d284327")
+	)
+	(junction
 		(at 100.33 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "69a058c9-3daa-4200-b397-6e922f67b9bc")
+	)
+	(junction
+		(at 48.26 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "747551fe-3252-482a-9353-953f635f91aa")
+	)
+	(junction
+		(at 43.18 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7776beac-df94-480b-81ef-4a9b197b4e9a")
+	)
+	(junction
+		(at 48.26 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "79028027-2477-4f8c-ad91-ce5a82eee5fc")
+	)
+	(junction
+		(at 55.88 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "799dd638-8fc4-4feb-b125-dce023d3c965")
+	)
+	(junction
+		(at 48.26 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80a4039c-159b-47c9-ad66-8559f9d12531")
 	)
 	(junction
 		(at 139.7 57.15)
@@ -4936,16 +5020,76 @@
 		(uuid "82991991-6895-41b7-be06-b5ca60fd5ac9")
 	)
 	(junction
+		(at 55.88 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8a9b3b4b-cc41-4a83-bfb5-6845b73dcbfa")
+	)
+	(junction
+		(at 48.26 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b77d4a2-1f9c-42d6-9522-3b98f385e063")
+	)
+	(junction
+		(at 45.72 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "916e9360-f712-4a4a-8b08-dbbdae9515f5")
+	)
+	(junction
+		(at 53.34 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "95324b9c-5791-4541-896f-be2476946ba5")
+	)
+	(junction
+		(at 55.88 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a2b92740-581c-4741-ac84-0dddea08ee1b")
+	)
+	(junction
 		(at 110.49 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ad541b28-4a00-486e-8f3e-fe47c3e1c7c5")
 	)
 	(junction
+		(at 43.18 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c3f6fcf1-bfaf-4b27-b41a-03db5c5a1040")
+	)
+	(junction
+		(at 43.18 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6de3372-b7ff-4a1d-973f-bb04324104dd")
+	)
+	(junction
+		(at 45.72 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d00c53b7-fa7f-4f4a-813d-eaa1e797d37d")
+	)
+	(junction
 		(at 139.7 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d2259b07-da9f-457b-b41e-22e1ca9496c3")
+	)
+	(junction
+		(at 50.8 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ddf68bae-ac6d-4b71-9c28-12853a634f94")
+	)
+	(junction
+		(at 55.88 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e957bf72-07be-48be-9ff5-e0382ad7342c")
 	)
 	(junction
 		(at 149.86 181.61)
@@ -5005,6 +5149,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 88.9) (xy 53.34 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b9b244a-0e3c-4728-88d2-91155e2dd523")
+	)
+	(wire
+		(pts
 			(xy 100.33 74.93) (xy 127 74.93)
 		)
 		(stroke
@@ -5035,6 +5189,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 76.2) (xy 45.72 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e32dde2-a2b2-4cd4-899d-be94a1896db6")
+	)
+	(wire
+		(pts
 			(xy 172.72 59.69) (xy 195.58 59.69)
 		)
 		(stroke
@@ -5042,6 +5206,16 @@
 			(type default)
 		)
 		(uuid "0ee8df56-284d-47a3-987c-7445982192b1")
+	)
+	(wire
+		(pts
+			(xy 40.64 76.2) (xy 43.18 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "111bf5d2-42e6-4c84-9613-e0eb7dab2215")
 	)
 	(wire
 		(pts
@@ -5062,6 +5236,16 @@
 			(type default)
 		)
 		(uuid "149d67cc-d73d-44ef-9be0-da7e6e139afb")
+	)
+	(wire
+		(pts
+			(xy 40.64 88.9) (xy 43.18 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17370a3d-9a39-4465-b726-284e7eafba76")
 	)
 	(wire
 		(pts
@@ -5102,6 +5286,16 @@
 			(type default)
 		)
 		(uuid "1e79cae5-0964-4c5d-aeb5-fc72c7cf3563")
+	)
+	(wire
+		(pts
+			(xy 53.34 57.15) (xy 55.88 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "209baa6c-a3e0-48b8-ab9c-c2af7f997bf9")
 	)
 	(wire
 		(pts
@@ -5152,6 +5346,16 @@
 			(type default)
 		)
 		(uuid "27f225f0-7770-431f-9b8d-c2fb0656207f")
+	)
+	(wire
+		(pts
+			(xy 45.72 57.15) (xy 48.26 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2879d913-174d-4708-8c2d-32a620ec9db5")
 	)
 	(wire
 		(pts
@@ -5215,6 +5419,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 57.15) (xy 50.8 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d757604-b4e6-4024-a0d5-1b5d15d88729")
+	)
+	(wire
+		(pts
 			(xy 186.69 34.29) (xy 195.58 34.29)
 		)
 		(stroke
@@ -5262,6 +5476,16 @@
 			(type default)
 		)
 		(uuid "3d76e3d3-066a-40f5-8f3d-0389a599a31e")
+	)
+	(wire
+		(pts
+			(xy 55.88 76.2) (xy 63.5 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3deb0677-9f52-4c1e-b65d-e33e8d9651d5")
 	)
 	(wire
 		(pts
@@ -5365,6 +5589,26 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 69.85) (xy 43.18 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53b9e625-fc38-4d10-8cd2-bda444cc3301")
+	)
+	(wire
+		(pts
+			(xy 45.72 69.85) (xy 48.26 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55148a75-80c1-4e9d-89d3-154771d121dd")
+	)
+	(wire
+		(pts
 			(xy 232.41 105.41) (xy 222.25 105.41)
 		)
 		(stroke
@@ -5425,6 +5669,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 76.2) (xy 53.34 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b95db6c-451a-4523-8d6b-95c1787dbc15")
+	)
+	(wire
+		(pts
 			(xy 222.25 123.19) (xy 232.41 123.19)
 		)
 		(stroke
@@ -5472,6 +5726,16 @@
 			(type default)
 		)
 		(uuid "636c221c-a2ca-4042-ad25-ae09dd388c41")
+	)
+	(wire
+		(pts
+			(xy 50.8 57.15) (xy 53.34 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65e3ba8b-82e3-423b-9d18-bde8c5c0e3e9")
 	)
 	(wire
 		(pts
@@ -5585,6 +5849,26 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 76.2) (xy 48.26 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c9ecb52-f4bf-483f-99e8-a0e167b40aad")
+	)
+	(wire
+		(pts
+			(xy 48.26 88.9) (xy 50.8 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ca6d7cb-8376-4417-8d2f-ed9123c7b1da")
+	)
+	(wire
+		(pts
 			(xy 139.7 39.37) (xy 166.37 39.37)
 		)
 		(stroke
@@ -5612,16 +5896,6 @@
 			(type default)
 		)
 		(uuid "8ef2e7b1-9ae1-4e43-b9e4-eb3be74c6058")
-	)
-	(wire
-		(pts
-			(xy 113.03 185.42) (xy 125.73 185.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "91341c9e-0692-48e3-8629-8459e1e9dabf")
 	)
 	(wire
 		(pts
@@ -5705,6 +5979,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 69.85) (xy 62.23 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9de1c9f5-a1ed-4fd2-93eb-28dfbacb65af")
+	)
+	(wire
+		(pts
 			(xy 100.33 54.61) (xy 127 54.61)
 		)
 		(stroke
@@ -5732,6 +6016,16 @@
 			(type default)
 		)
 		(uuid "a3c8a061-b58f-4cd7-8df2-31b7e588ff77")
+	)
+	(wire
+		(pts
+			(xy 43.18 69.85) (xy 45.72 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3e75f24-a64a-4a88-bff7-8e32c16c1532")
 	)
 	(wire
 		(pts
@@ -5792,6 +6086,16 @@
 			(type default)
 		)
 		(uuid "aacae57b-5ca1-4e5c-8d89-d4b9f46b9262")
+	)
+	(wire
+		(pts
+			(xy 48.26 69.85) (xy 50.8 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aebc3204-a1fa-4eff-8266-05403ea04742")
 	)
 	(wire
 		(pts
@@ -5895,6 +6199,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 57.15) (xy 45.72 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c27d64d1-0c1d-4a89-85c7-ab7e83bb1410")
+	)
+	(wire
+		(pts
 			(xy 100.33 57.15) (xy 110.49 57.15)
 		)
 		(stroke
@@ -5925,6 +6239,26 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 69.85) (xy 53.34 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2f30826-c023-4e73-ac45-8d688608c967")
+	)
+	(wire
+		(pts
+			(xy 53.34 88.9) (xy 55.88 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d320dfe5-ca43-4445-b585-10d774f70470")
+	)
+	(wire
+		(pts
 			(xy 222.25 24.13) (xy 236.22 24.13)
 		)
 		(stroke
@@ -5942,6 +6276,16 @@
 			(type default)
 		)
 		(uuid "d5ee4a68-2ed2-4d71-8b12-c94ed3afaeeb")
+	)
+	(wire
+		(pts
+			(xy 53.34 76.2) (xy 55.88 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d65ea85a-7156-4c73-87d5-c5c42eb1253b")
 	)
 	(wire
 		(pts
@@ -5982,6 +6326,26 @@
 			(type default)
 		)
 		(uuid "d8b04ad4-6523-4614-8076-34af67ec6d46")
+	)
+	(wire
+		(pts
+			(xy 48.26 76.2) (xy 50.8 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db0b8c6b-1fd4-4b8a-a254-27ed0a4773ea")
+	)
+	(wire
+		(pts
+			(xy 45.72 88.9) (xy 48.26 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db5999e8-e031-4401-94fb-8e9bf02416d8")
 	)
 	(wire
 		(pts
@@ -6055,6 +6419,26 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 88.9) (xy 59.69 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7a78e8b-5916-43b5-be3d-bf99934daa93")
+	)
+	(wire
+		(pts
+			(xy 53.34 69.85) (xy 55.88 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eaf8e467-b843-48eb-9683-a6750f8fa95a")
+	)
+	(wire
+		(pts
 			(xy 236.22 77.47) (xy 222.25 77.47)
 		)
 		(stroke
@@ -6072,6 +6456,16 @@
 			(type default)
 		)
 		(uuid "f2eb89d9-1a29-446e-8ab7-eefed90c373c")
+	)
+	(wire
+		(pts
+			(xy 40.64 57.15) (xy 43.18 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f31beec8-40ad-4398-87af-f92cb371d8b7")
 	)
 	(wire
 		(pts
@@ -6115,6 +6509,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 88.9) (xy 45.72 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f74b9eb2-72ce-4d8e-9b73-1640c4dc45c9")
+	)
+	(wire
+		(pts
 			(xy 146.05 92.71) (xy 139.7 92.71)
 		)
 		(stroke
@@ -6152,6 +6556,16 @@
 			(type default)
 		)
 		(uuid "fabff7cc-6b2a-42d7-bdfc-5a552f77e030")
+	)
+	(wire
+		(pts
+			(xy 55.88 57.15) (xy 63.5 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "faf600fd-88bd-40fa-9304-6bbc8a8ae94c")
 	)
 	(wire
 		(pts
@@ -7255,7 +7669,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22f62d46-385d-47c1-9b6b-b9640abd37c2")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR073"
 			(at 232.41 127 0)
 			(hide yes)
 			(show_name no)
@@ -7266,7 +7680,7 @@
 				)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3V3_Core"
 			(at 232.41 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7315,7 +7729,85 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR075")
+					(reference "#PWR073")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 63.5 76.2 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28bb374f-de2b-4739-af30-1c133812919f")
+		(property "Reference" "#PWR058"
+			(at 63.5 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND_Core"
+			(at 63.5 81.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 63.5 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e0bdd675-984f-4fa7-93bb-994f70adb9d5")
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -7332,7 +7824,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2f8c0de8-7cc6-45e0-9da2-1c61f5e4225d")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR064"
 			(at 137.16 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -7343,7 +7835,7 @@
 				)
 			)
 		)
-		(property "Value" "Logic_GND"
+		(property "Value" "GND_Core"
 			(at 137.16 186.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7392,7 +7884,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR066")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -7410,7 +7902,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34f8dc3b-006e-4de1-b4a5-e73ccfdb9736")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR062"
 			(at 127 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -7421,7 +7913,7 @@
 				)
 			)
 		)
-		(property "Value" "+5V"
+		(property "Value" "+5V_Core"
 			(at 127 26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7470,7 +7962,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR064")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -7487,7 +7979,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3b75d469-2892-44a9-80bd-084f6810c365")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR069"
 			(at 149.86 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -7498,7 +7990,7 @@
 				)
 			)
 		)
-		(property "Value" "Logic_GND"
+		(property "Value" "GND_Core"
 			(at 149.86 193.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7547,84 +8039,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR071")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 125.73 185.42 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3c7db5ff-4be4-48a0-8ca3-29c5c74ba059")
-		(property "Reference" "#PWR063"
-			(at 125.73 191.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Logic_GND"
-			(at 125.73 190.5 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 125.73 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 125.73 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 125.73 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "475fb8a6-b148-4634-9b84-4141f14b473a")
-		)
-		(instances
-			(project "MY_POWERFULL_PLC_PCB"
-				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR063")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -7653,7 +8068,7 @@
 				)
 			)
 		)
-		(property "Value" "+5V"
+		(property "Value" "+5V_Core"
 			(at 74.93 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7720,7 +8135,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "594ef142-4fab-4729-9611-8bfb8ad3ffa3")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR061"
 			(at 114.3 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -7731,7 +8146,7 @@
 				)
 			)
 		)
-		(property "Value" "Logic_GND"
+		(property "Value" "GND_Core"
 			(at 114.3 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7780,7 +8195,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR062")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -7798,7 +8213,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5fc457d0-f515-4943-8d18-95f8cf921365")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR075"
 			(at 236.22 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -7809,7 +8224,7 @@
 				)
 			)
 		)
-		(property "Value" "+5V"
+		(property "Value" "+5V_Core"
 			(at 236.22 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7858,7 +8273,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR077")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -7876,7 +8291,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80711bd0-3651-4ed2-8b3e-51579f452664")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR074"
 			(at 236.22 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -7887,7 +8302,7 @@
 				)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3V3_Core"
 			(at 236.22 19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7936,7 +8351,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR076")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -7954,7 +8369,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87e87734-9ab4-4893-bec6-fa147629cd30")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR065"
 			(at 139.7 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -7965,7 +8380,7 @@
 				)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3V3_Core"
 			(at 139.7 26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8014,7 +8429,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR067")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -8032,7 +8447,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8c0e55fc-8f01-4ebf-ac7b-5c372f3c953d")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR066"
 			(at 139.7 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -8043,7 +8458,7 @@
 				)
 			)
 		)
-		(property "Value" "Logic_GND"
+		(property "Value" "GND_Core"
 			(at 139.7 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8092,7 +8507,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR068")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -8110,7 +8525,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c5733f5-1bde-4f12-b4f5-631306f45bfa")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR072"
 			(at 200.66 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -8121,7 +8536,7 @@
 				)
 			)
 		)
-		(property "Value" "+5V"
+		(property "Value" "+5V_Core"
 			(at 200.66 19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8170,7 +8585,125 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR074")
+					(reference "#PWR072")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_02x07_Odd_Even")
+		(at 48.26 64.77 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8c9cba45-73d5-4b54-a9d6-a1ae7dc2a63b")
+		(property "Reference" "J11"
+			(at 38.1 62.2299 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_02x07_Counter_Clockwise"
+			(at 38.1 64.7699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x07_P2.54mm_Vertical"
+			(at 48.26 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 48.26 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "10"
+			(uuid "94037a31-0ca0-42ed-aa01-18d5ca6205fa")
+		)
+		(pin "8"
+			(uuid "0014207c-b4ce-44e4-8456-05d5152ba351")
+		)
+		(pin "14"
+			(uuid "691fe0cf-044a-4aa8-b2e1-08a120d082f4")
+		)
+		(pin "9"
+			(uuid "dad67a19-93e9-4be4-89e1-53054e235502")
+		)
+		(pin "3"
+			(uuid "e23212d0-a903-4378-a54a-7232a4dc01d2")
+		)
+		(pin "1"
+			(uuid "bcffa3c2-6811-46fa-8cfb-b525f5d24ebf")
+		)
+		(pin "4"
+			(uuid "4bea2a5f-85db-425b-9e3f-a9a3b689e78e")
+		)
+		(pin "5"
+			(uuid "ba5195a0-c833-4715-b0dc-f79dc8c19f16")
+		)
+		(pin "6"
+			(uuid "5dda720c-3964-4ac6-8a9f-10c5853fbd31")
+		)
+		(pin "2"
+			(uuid "fffef52d-e73b-4cd8-8999-3e663e640707")
+		)
+		(pin "7"
+			(uuid "dd9d5a6a-f07c-4932-877a-110f934c12ae")
+		)
+		(pin "11"
+			(uuid "1367b8bf-9890-49e7-9abf-103b7bd34ca7")
+		)
+		(pin "13"
+			(uuid "97e9ad6c-26ac-4a82-b790-63992d2c566d")
+		)
+		(pin "12"
+			(uuid "adb1e2d1-6c3a-4b89-9bbe-bc2f6266a75b")
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -8188,7 +8721,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a01a7643-b1dc-4c02-8a71-810a5a239d77")
-		(property "Reference" "J15"
+		(property "Reference" "J14"
 			(at 134.62 173.9899 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8288,7 +8821,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "J15")
+					(reference "J14")
 					(unit 1)
 				)
 			)
@@ -8306,7 +8839,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8bdca39-15eb-4664-9562-565bd708265c")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR068"
 			(at 143.51 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -8317,7 +8850,7 @@
 				)
 			)
 		)
-		(property "Value" "+5V"
+		(property "Value" "+5V_Core"
 			(at 143.51 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8366,7 +8899,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR070")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -8492,6 +9025,84 @@
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
 					(reference "U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 63.5 57.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b179e017-891b-4e8c-a16c-4f623c78ff73")
+		(property "Reference" "#PWR057"
+			(at 63.5 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND_Core"
+			(at 63.5 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 63.5 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1ba84976-2de8-4545-9140-e4437f9aa589")
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -8847,7 +9458,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b77f078a-37f2-4292-b289-1daf047343a7")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR071"
 			(at 166.37 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -8858,7 +9469,7 @@
 				)
 			)
 		)
-		(property "Value" "Logic_GND"
+		(property "Value" "GND_Core"
 			(at 166.37 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8907,7 +9518,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR073")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -8925,7 +9536,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba368bdc-37e1-47b0-b079-faf6cb9f9f0e")
-		(property "Reference" "J14"
+		(property "Reference" "J13"
 			(at 133.35 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9149,7 +9760,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "J14")
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -9167,7 +9778,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "baf9df0f-0621-4180-910c-ead24f56f3d7")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR067"
 			(at 142.24 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -9178,7 +9789,7 @@
 				)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3V3_Core"
 			(at 142.24 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9227,7 +9838,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR069")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -9256,9 +9867,8 @@
 				)
 			)
 		)
-		(property "Value" "Logic_GND"
+		(property "Value" "GND_Core"
 			(at 110.49 62.23 0)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9313,8 +9923,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 113.03 185.42 0)
+		(lib_id "Connector_Generic:Conn_02x07_Odd_Even")
+		(at 48.26 83.82 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9322,30 +9932,32 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "cfe8c7f7-7000-4c34-8085-81c7b205cb46")
-		(property "Reference" "#PWR061"
-			(at 113.03 191.77 0)
-			(hide yes)
+		(fields_autoplaced yes)
+		(uuid "ca0492c7-437a-4cb6-8c04-07c33039cd38")
+		(property "Reference" "J12"
+			(at 38.1 81.2799 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "LOGIC_GND"
-			(at 113.03 190.5 0)
+		(property "Value" "Conn_02x07_Counter_Clockwise"
+			(at 38.1 83.8199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 113.03 185.42 0)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x07_P2.54mm_Vertical"
+			(at 48.26 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9356,7 +9968,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 185.42 0)
+			(at 48.26 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9366,8 +9978,125 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 113.03 185.42 0)
+		(property "Description" "Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 48.26 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "10"
+			(uuid "323f423d-c9ea-4a2d-a2ce-561099529258")
+		)
+		(pin "8"
+			(uuid "752b129d-20ce-44f6-8311-c23922d829c3")
+		)
+		(pin "14"
+			(uuid "7c5d0075-e4f1-4c56-b730-593333d1cbeb")
+		)
+		(pin "9"
+			(uuid "47dd6fe1-ef0d-47ec-86eb-8c60e9b7b1e8")
+		)
+		(pin "3"
+			(uuid "426d9537-9825-4b3b-ac77-5840b42809b8")
+		)
+		(pin "1"
+			(uuid "0c4e3e8f-fbd2-4e39-b08a-2ce0ac63376e")
+		)
+		(pin "4"
+			(uuid "c9b9575b-3993-4677-a57f-307ba44094ea")
+		)
+		(pin "5"
+			(uuid "c6a5c608-02f4-4c0f-ba9b-12c1da41db33")
+		)
+		(pin "6"
+			(uuid "386a8079-8a25-4ed3-b925-089ebb874ec9")
+		)
+		(pin "2"
+			(uuid "f3a67125-8db4-4a9b-b727-e27796e8af44")
+		)
+		(pin "7"
+			(uuid "19b81da2-68ab-42c7-8b1b-f128d9150389")
+		)
+		(pin "11"
+			(uuid "4dda122c-6781-47da-b53e-b1a99558e42a")
+		)
+		(pin "13"
+			(uuid "0b57c105-8327-4119-b8b5-788d1ae25b3d")
+		)
+		(pin "12"
+			(uuid "04264a70-3ab3-4adc-9f65-62b8bf2c9cd7")
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
+					(reference "J12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 62.23 69.85 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d178e4fb-0927-4f4c-918a-3e70b96ec90b")
+		(property "Reference" "#PWR056"
+			(at 62.23 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3_Core"
+			(at 62.23 64.77 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 62.23 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 62.23 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 62.23 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9378,12 +10107,90 @@
 			)
 		)
 		(pin "1"
-			(uuid "cfe5746a-4eb4-45f8-819f-321dd5cf541e")
+			(uuid "f5f77a34-8179-406c-9964-f4b9f15776d1")
 		)
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR061")
+					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 59.69 88.9 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eb8eb0e3-8d39-4492-ba65-2b8ef61cc86f")
+		(property "Reference" "#PWR055"
+			(at 59.69 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V_Core"
+			(at 59.69 83.82 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 59.69 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 59.69 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 59.69 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "77779794-e77f-4dc8-b8b6-82902fa74fda")
+		)
+		(instances
+			(project "MY_POWERFULL_PLC_PCB"
+				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -9401,7 +10208,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f5c4cb4b-7216-4a36-8acd-cf609ae3594c")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR063"
 			(at 127 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9412,7 +10219,7 @@
 				)
 			)
 		)
-		(property "Value" "Logic_GND"
+		(property "Value" "GND_Core"
 			(at 127 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9461,7 +10268,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR065")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -9479,7 +10286,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f643cba3-6b28-426b-a90e-560db0ae5ae3")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR070"
 			(at 152.4 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -9490,7 +10297,7 @@
 				)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3V3_Core"
 			(at 152.4 163.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9539,7 +10346,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR072")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -9557,7 +10364,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fabbc8ac-3eb6-4557-af02-c98390cffe83")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR076"
 			(at 276.86 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -9568,7 +10375,7 @@
 				)
 			)
 		)
-		(property "Value" "Logic_GND"
+		(property "Value" "GND_Core"
 			(at 276.86 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9617,7 +10424,7 @@
 		(instances
 			(project "MY_POWERFULL_PLC_PCB"
 				(path "/69a480d6-fa06-4fdd-8ed7-9beeb2ac027a/b4e5aac5-ee4d-4253-98ef-8f8cd1e2c358"
-					(reference "#PWR078")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
